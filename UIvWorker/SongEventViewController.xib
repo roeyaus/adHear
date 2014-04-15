@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archive type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="8.00">
+	<data>
+		<int key="IBDocument.SystemTarget">1280</int>
+		<string key="IBDocument.SystemVersion">11D50</string>
+		<string key="IBDocument.InterfaceBuilderVersion">2182</string>
+		<string key="IBDocument.AppKitVersion">1138.32</string>
+		<string key="IBDocument.HIToolboxVersion">568.00</string>
+		<object class="NSMutableDictionary" key="IBDocument.PluginVersions">
+			<string key="NS.key.0">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
+			<string key="NS.object.0">1181</string>
+		</object>
+		<array key="IBDocument.IntegratedClassDependencies">
+			<string>IBProxyObject</string>
+			<string>IBUIView</string>
+			<string>IBUILabel</string>
+		</array>
+		<array key="IBDocument.PluginDependencies">
+			<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
+		</array>
+		<object class="NSMutableDictionary" key="IBDocument.Metadata">
+			<string key="NS.key.0">PluginDependencyRecalculationVersion</string>
+			<integer value="1" key="NS.object.0"/>
+		</object>
+		<array class="NSMutableArray" key="IBDocument.RootObjects" id="1000">
+			<object class="IBProxyObject" id="372490531">
+				<string key="IBProxiedObjectIdentifier">IBFilesOwner</string>
+				<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
+			</object>
+			<object class="IBProxyObject" id="975951072">
+				<string key="IBProxiedObjectIdentifier">IBFirstResponder</string>
+				<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
+			</object>
+			<object class="IBUIView" id="191373211">
+				<reference key="NSNextResponder"/>
+				<int key="NSvFlags">274</int>
+				<array class="NSMutableArray" key="NSSubviews">
+					<object class="IBUILabel" id="579047237">
+						<reference key="NSNextResponder" ref="191373211"/>
+						<int key="NSvFlags">292</int>
+						<string key="NSFrame">{{20, 20}, {280, 339}}</string>
+						<reference key="NSSuperview" ref="191373211"/>
+						<string key="NSReuseIdentifierKey">_NS:9</string>
+						<bool key="IBUIOpaque">NO</bool>
+						<bool key="IBUIClipsSubviews">YES</bool>
+						<int key="IBUIContentMode">7</int>
+						<bool key="IBUIUserInteractionEnabled">NO</bool>
+						<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
+						<object class="NSMutableString" key="IBUIText">
+							<bytes key="NS.bytes">16jXldem15kg16nXnteV15zXmdenIArXkNeo15nXkNecINeW15nXnNeR16ggCtee15nXnNeZ150g15XX
+nNeX1586INep157Xldec15nXpyDXpifXmdeW15nXpwrXp9eZ15nXnSDXkdeZ16bXldeiINeg15XXodej
+INec16nXmdeoINeW15QgCiAK15DXp9eV16jXk9eZ150gIAoKCteb16nXkNeqINen157XlCDXkdeR15XX
+p9eoINeV157Xqtec15HXqdeqIArXldeU16nXntepINec15og16nXldec15fXqiDXk9eo15nXqdeqINep
+15zXldedLCAK15DXqiDXqdeV16rXlCDXm9eV16Eg16fXpNeUINeV16DXlteb16jXqiAK15DXmdeaINeR
+15zXmdec15Qg15TXldeQINeU15XXpNeZ16Ig15HXl9ec15XXnS4gCgrXkdee15TXqNeUINeR157Xk9eo
+15LXldeqINeQ16og15nXldeo15PXqiAK157Xodek15nXp9eUINec16rXpNeV16Eg16on15DXldeY15Ug
+15TXkNeX16jXldefLCAK157XkteZ16LXlCDXnNee16nXqNeTINeV16DXlteb16jXqiAK15DXmdeaINeR
+15zXmdec15Qg15TXldeQINeU15XXpNeZ16Ig15HXl9ec15XXnS4gCgrXqNeV16bXmSwg16nXnteV15zX
+mdenINen15XXqNeQINec15ogCteV16nXldec15cg15DXnNejINeg16nXmden15XXqi4gCteo15XXpteZ
+LCDXqdee15XXnNeZ16cg157Xl9eb15Qg15zXmiAK15vXnteUINeW157XnyDXoteV15Mg16rXqteg15kg
+15zXlSDXnNeX15vXldeqLiAKCteb15og16LXldeR16gg15vXnCDXlNeZ15XXnSwg15DXqiDXnNeQINeZ
+15XXk9ei16ogCteQ150g15bXlSDXodeq150g157XpteZ15DXldeqLCDXkNeVINeT157XmdeV158uIArX
+kNeqINep15XXqteUINei15XXkyDXm9eV16Eg16fXpNeUINeV16DXlteb16jXqiAK15DXmdeaINeR15zX
+mdec15Qg15TXldeQINeU15XXpNeZ16Ig15HXl9ec15XXnS4gCgrXk9eV15nXnyDXk9eV15nXnyDXk9eV
+15nXny4uLiAKCteV15HXoteo15Eg15vXqdeQ16og15fXldeW16jXqiDXlNeR15nXqteUIArXntei15nX
+pNeUINee15HXmCDXl9eY15XXoyDXntefINeU15fXnNeV158gCteU15XXkCDXoteV157XkyDXqdedINeR
+16TXmdeg15Qg15XXnteX15vXlCDXnNeaIArXm9efLCDXlNec15nXnNeUINec15Ag16bXqNeZ15og15nX
+ldeq16gg15zXl9ec15XXnS4gCgrXqNeV16bXmSwg16nXnteV15zXmdenINen15XXqNeQINec15ogCteV
+16nXldec15cg15DXnNejINeg16nXmden15XXqi4gCteo15XXpteZLCDXqdee15XXnNeZ16cg157Xl9eb
+15Qg15zXmiAK15vXnteUINeW157XnyDXoteV15Mg16rXqteg15kg15zXlSDXnNeX15vXldeqLg</bytes>
+						</object>
+						<object class="NSColor" key="IBUITextColor">
+							<int key="NSColorSpace">1</int>
+							<bytes key="NSRGB">MCAwIDAAA</bytes>
+						</object>
+						<nil key="IBUIHighlightedColor"/>
+						<int key="IBUIBaselineAdjustment">0</int>
+						<float key="IBUIMinimumFontSize">10</float>
+						<int key="IBUINumberOfLines">0</int>
+						<int key="IBUITextAlignment">2</int>
+						<object class="IBUIFontDescription" key="IBUIFontDescription">
+							<int key="type">1</int>
+							<double key="pointSize">17</double>
+						</object>
+						<object class="NSFont" key="IBUIFont">
+							<string key="NSName">Helvetica</string>
+							<double key="NSSize">17</double>
+							<int key="NSfFlags">16</int>
+						</object>
+					</object>
+				</array>
+				<string key="NSFrame">{{0, 20}, {320, 411}}</string>
+				<reference key="NSSuperview"/>
+				<reference key="NSNextKeyView" ref="579047237"/>
+				<object class="NSColor" key="IBUIBackgroundColor">
+					<int key="NSColorSpace">3</int>
+					<bytes key="NSWhite">MQA</bytes>
+					<object class="NSColorSpace" key="NSCustomColorSpace">
+						<int key="NSID">2</int>
+					</object>
+				</object>
+				<object class="IBUISimulatedStatusBarMetrics" key="IBUISimulatedStatusBarMetrics"/>
+				<object class="IBUISimulatedTabBarMetrics" key="IBUISimulatedBottomBarMetrics"/>
+				<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
+			</object>
+		</array>
+		<object class="IBObjectContainer" key="IBDocument.Objects">
+			<array class="NSMutableArray" key="connectionRecords">
+				<object class="IBConnectionRecord">
+					<object class="IBCocoaTouchOutletConnection" key="connection">
+						<string key="label">view</string>
+						<reference key="source" ref="372490531"/>
+						<reference key="destination" ref="191373211"/>
+					</object>
+					<int key="connectionID">3</int>
+				</object>
+			</array>
+			<object class="IBMutableOrderedSet" key="objectRecords">
+				<array key="orderedObjects">
+					<object class="IBObjectRecord">
+						<int key="objectID">0</int>
+						<array key="object" id="0"/>
+						<reference key="children" ref="1000"/>
+						<nil key="parent"/>
+					</object>
+					<object class="IBObjectRecord">
+						<int key="objectID">1</int>
+						<reference key="object" ref="191373211"/>
+						<array class="NSMutableArray" key="children">
+							<reference ref="579047237"/>
+						</array>
+						<reference key="parent" ref="0"/>
+					</object>
+					<object class="IBObjectRecord">
+						<int key="objectID">-1</int>
+						<reference key="object" ref="372490531"/>
+						<reference key="parent" ref="0"/>
+						<string key="objectName">File's Owner</string>
+					</object>
+					<object class="IBObjectRecord">
+						<int key="objectID">-2</int>
+						<reference key="object" ref="975951072"/>
+						<reference key="parent" ref="0"/>
+					</object>
+					<object class="IBObjectRecord">
+						<int key="objectID">4</int>
+						<reference key="object" ref="579047237"/>
+						<reference key="parent" ref="191373211"/>
+					</object>
+				</array>
+			</object>
+			<dictionary class="NSMutableDictionary" key="flattenedProperties">
+				<string key="-1.CustomClassName">SongEventViewController</string>
+				<string key="-1.IBPluginDependency">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
+				<string key="-2.CustomClassName">UIResponder</string>
+				<string key="-2.IBPluginDependency">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
+				<string key="1.IBPluginDependency">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
+				<string key="4.IBPluginDependency">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
+			</dictionary>
+			<dictionary class="NSMutableDictionary" key="unlocalizedProperties"/>
+			<nil key="activeLocalization"/>
+			<dictionary class="NSMutableDictionary" key="localizations"/>
+			<nil key="sourceID"/>
+			<int key="maxID">4</int>
+		</object>
+		<object class="IBClassDescriber" key="IBDocument.Classes"/>
+		<int key="IBDocument.localizationMode">0</int>
+		<string key="IBDocument.TargetRuntimeIdentifier">IBCocoaTouchFramework</string>
+		<bool key="IBDocument.PluginDeclaredDependenciesTrackSystemTargetVersion">YES</bool>
+		<int key="IBDocument.defaultPropertyAccessControl">3</int>
+		<string key="IBCocoaTouchPluginVersion">1181</string>
+	</data>
+</archive>

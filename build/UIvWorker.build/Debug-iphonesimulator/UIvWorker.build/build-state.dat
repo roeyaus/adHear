@@ -1,0 +1,1581 @@
+TUIvWorker
+v4
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/Info.plist UIvWorker/UIvWorker-Info.plist
+cProcessPCH /var/folders/rk/00zdb67x71s8t7q6bl_0q9g80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/UIvWorker-Prefix-eeqtvswddunsfbfazjpjxqhaxxmn/UIvWorker-Prefix.pch.pth UIvWorker/UIvWorker-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/rk/00zdb67x71s8t7q6bl_0q9g80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/UIvWorker-Prefix-efsdxhukvjktythkblmleduxspjn/UIvWorker-Prefix.pch.pth UIvWorker/UIvWorker-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/CouponDetailsScreen.o /Users/roeyl/Desktop/Ceme/UIvWorker/CouponDetailsScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/main.o /Users/roeyl/Desktop/Ceme/UIvWorker/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/AppDelegate.o /Users/roeyl/Desktop/Ceme/UIvWorker/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/RecordingView.o /Users/roeyl/Desktop/Ceme/UIvWorker/RecordingView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/Screen2.o /Users/roeyl/Desktop/Ceme/UIvWorker/Screen2.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/Screen5.o /Users/roeyl/Desktop/Ceme/UIvWorker/Screen5.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASIAuthenticationDialog.o /Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIAuthenticationDialog.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASIDataCompressor.o /Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIDataCompressor.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASIDataDecompressor.o /Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIDataDecompressor.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASIDownloadCache.o /Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIDownloadCache.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASIFormDataRequest.o /Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIFormDataRequest.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASIHTTPRequest.o /Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIHTTPRequest.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASIInputStream.o /Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIInputStream.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASINetworkQueue.o /Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASINetworkQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/Reachability.o /Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/Reachability/Reachability.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/MyCouponsScreen.o /Users/roeyl/Desktop/Ceme/UIvWorker/MyCouponsScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/Coupon.o /Users/roeyl/Desktop/Ceme/UIvWorker/Coupon.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/AudibleMagicSmartSync.o /Users/roeyl/Desktop/Ceme/UIvWorker/AudibleMagic_sources/AudibleMagicSmartSync.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/UIvWorker normal i386
+cGenerateDSYMFile /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app.dSYM /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/UIvWorker
+cCopyStringsFile /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/en.lproj/InfoPlist.strings UIvWorker/en.lproj/InfoPlist.strings
+cCpResource UIvWorker/first.png build/Debug-iphonesimulator/UIvWorker.app/first.png
+cCpResource UIvWorker/first@2x.png build/Debug-iphonesimulator/UIvWorker.app/first@2x.png
+cCpResource UIvWorker/second.png build/Debug-iphonesimulator/UIvWorker.app/second.png
+cCpResource UIvWorker/second@2x.png build/Debug-iphonesimulator/UIvWorker.app/second@2x.png
+cCompileXIB /Users/roeyl/Desktop/Ceme/UIvWorker/en.lproj/RecordingView.xib
+cCompileXIB /Users/roeyl/Desktop/Ceme/UIvWorker/en.lproj/CouponDetailsScreen.xib
+cCompileXIB /Users/roeyl/Desktop/Ceme/UIvWorker/Screen2.xib
+cCompileXIB /Users/roeyl/Desktop/Ceme/UIvWorker/Screen5.xib
+cCompileXIB /Users/roeyl/Desktop/Ceme/UIvWorker/MyCouponsScreen.xib
+cCpResource pngs/2-bar.png build/Debug-iphonesimulator/UIvWorker.app/2-bar.png
+cCpResource pngs/4-bar.png build/Debug-iphonesimulator/UIvWorker.app/4-bar.png
+cCpResource pngs/6-bar.png build/Debug-iphonesimulator/UIvWorker.app/6-bar.png
+cCpResource pngs/8-bar.png build/Debug-iphonesimulator/UIvWorker.app/8-bar.png
+cCpResource pngs/10-bar.png build/Debug-iphonesimulator/UIvWorker.app/10-bar.png
+cCpResource pngs/12-bar.png build/Debug-iphonesimulator/UIvWorker.app/12-bar.png
+cCpResource pngs/14-bar.png build/Debug-iphonesimulator/UIvWorker.app/14-bar.png
+cCpResource pngs/16-bar.png build/Debug-iphonesimulator/UIvWorker.app/16-bar.png
+cCpResource pngs/backgound.png build/Debug-iphonesimulator/UIvWorker.app/backgound.png
+cCpResource pngs/bot-icon-record.png build/Debug-iphonesimulator/UIvWorker.app/bot-icon-record.png
+cCpResource pngs/Cancelbutton.png build/Debug-iphonesimulator/UIvWorker.app/Cancelbutton.png
+cCpResource pngs/colored.png build/Debug-iphonesimulator/UIvWorker.app/colored.png
+cCpResource pngs/dark.png build/Debug-iphonesimulator/UIvWorker.app/dark.png
+cCpResource pngs/Icon-2.png build/Debug-iphonesimulator/UIvWorker.app/Icon-2.png
+cCpResource pngs/icon-3.png build/Debug-iphonesimulator/UIvWorker.app/icon-3.png
+cCpResource pngs/Icon4.png build/Debug-iphonesimulator/UIvWorker.app/Icon4.png
+cCpResource pngs/knob.png build/Debug-iphonesimulator/UIvWorker.app/knob.png
+cCpResource pngs/loading-background.png build/Debug-iphonesimulator/UIvWorker.app/loading-background.png
+cCpResource pngs/record.png build/Debug-iphonesimulator/UIvWorker.app/record.png
+cCpResource pngs/ring.png build/Debug-iphonesimulator/UIvWorker.app/ring.png
+cCpResource pngs/Tab-1.png build/Debug-iphonesimulator/UIvWorker.app/Tab-1.png
+cCpResource pngs/tab-2.png build/Debug-iphonesimulator/UIvWorker.app/tab-2.png
+cCpResource pngs/Hagolan.jpg build/Debug-iphonesimulator/UIvWorker.app/Hagolan.jpg
+cCpResource pngs/Zero.jpg build/Debug-iphonesimulator/UIvWorker.app/Zero.jpg
+cCpResource CeMeDB.amdb build/Debug-iphonesimulator/UIvWorker.app/CeMeDB.amdb
+cCpResource UIvWorker/Roey_ForTesting_MediaSyncLookup_Local_HalfPrecision_Normalized_20111128_1603_V4.config build/Debug-iphonesimulator/UIvWorker.app/Roey_ForTesting_MediaSyncLookup_Local_HalfPrecision_Normalized_20111128_1603_V4.config
+cTouch /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk
+c000000004EED0EE20000000000000110
+t1324158690
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004E7806CF000000000018D430
+t1316488911
+s1627184
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004E72F1F200000000002F4210
+t1316155890
+s3097104
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004E72F23F00000000002050D0
+t1316155967
+s2117840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004E72F1480000000000285540
+t1316155720
+s2643264
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004E72F1CC0000000000245480
+t1316155852
+s2380928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004E72F2960000000000353830
+t1316156054
+s3487792
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004E7808D3000000000023A3F0
+t1316489427
+s2335728
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000004E72F3C800000000000998C0
+t1316156360
+s628928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004E72F177000000000006C8A0
+t1316155767
+s444576
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004E7806AB00000000008F7390
+t1316488875
+s9401232
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/usr/lib/libz.1.2.5.dylib
+c000000004E72EDC60000000000013460
+t1316154822
+s78944
+
+N/Users/roeyl/Desktop/Ceme/CeMeDB.amdb
+c000000004F24293000000000001A3574
+t1327769904
+s1717620
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIAuthenticationDialog.h
+c000000004E8F81EF0000000000000453
+t1318027759
+s1107
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIAuthenticationDialog.m
+c000000004E8F81EF0000000000003E08
+t1318027759
+s15880
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASICacheDelegate.h
+c000000004E8F81EF000000000000141F
+t1318027759
+s5151
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIDataCompressor.h
+c000000004E8F81EF000000000000072C
+t1318027759
+s1836
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIDataCompressor.m
+c000000004E8F81EF0000000000001A63
+t1318027759
+s6755
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIDataDecompressor.h
+c000000004E8F81EF00000000000006A3
+t1318027759
+s1699
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIDataDecompressor.m
+c000000004E8F81EF0000000000001916
+t1318027759
+s6422
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIDownloadCache.h
+c000000004E8F81EF00000000000007CC
+t1318027759
+s1996
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIDownloadCache.m
+c000000004E8F81EF0000000000004561
+t1318027759
+s17761
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIFormDataRequest.h
+c000000004E8F81EF0000000000000A85
+t1318027759
+s2693
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIFormDataRequest.m
+c000000004E8F81EF0000000000002C02
+t1318027759
+s11266
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIHTTPRequest.h
+c000000004E8F81EF000000000000AFE9
+t1318027759
+s45033
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIHTTPRequest.m
+c000000004E8F81EF000000000002CF34
+t1318027759
+s184116
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIHTTPRequestConfig.h
+c000000004E8F81EF0000000000000511
+t1318027759
+s1297
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIHTTPRequestDelegate.h
+c000000004E8F81EF000000000000063E
+t1318027759
+s1598
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIInputStream.h
+c000000004EF6000300000000000003C9
+t1324744707
+s969
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIInputStream.m
+c000000004E8F81EF0000000000000C32
+t1318027759
+s3122
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASINetworkQueue.h
+c000000004E8F81EF000000000000120D
+t1318027759
+s4621
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASINetworkQueue.m
+c000000004E8F81EF0000000000002C8D
+t1318027759
+s11405
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIProgressDelegate.h
+c000000004E8F81EF0000000000000678
+t1318027759
+s1656
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/Reachability/Reachability.h
+c000000004E8F81EF0000000000001D25
+t1318027759
+s7461
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/Reachability/Reachability.m
+c000000004E8F81EF0000000000005E0C
+t1318027759
+s24076
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/AppDelegate.h
+c000000004F0A051F00000000000002D9
+t1326056735
+s729
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/AppDelegate.m
+c000000004F2545E7000000000000152E
+t1327842791
+s5422
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/AudibleMagic_includes/AudibleMagicSmartSync.h
+c000000004F243EB800000000000009A8
+t1327775416
+s2472
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/AudibleMagic_includes/MF_MediaID_api.h
+c000000004F1628A400000000000035E2
+t1326852260
+s13794
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/AudibleMagic_includes/mfAlloc.h
+c000000004F1628A400000000000004EF
+t1326852260
+s1263
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/AudibleMagic_includes/mfErrors_oem.h
+c000000004F1628A4000000000000108A
+t1326852260
+s4234
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/AudibleMagic_includes/mfGlobals.h
+c000000004F1628A4000000000000078E
+t1326852260
+s1934
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/AudibleMagic_includes/mfMacros.h
+c000000004F1628A40000000000000A4A
+t1326852260
+s2634
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/AudibleMagic_sources/AudibleMagicSmartSync.m
+c000000004F2538E00000000000003960
+t1327839456
+s14688
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/Coupon.h
+c000000004F06F5360000000000000252
+t1325856054
+s594
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/Coupon.m
+c000000004F255B24000000000000087A
+t1327848228
+s2170
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/CouponDetailsScreen.h
+c000000004F0B26A00000000000000473
+t1326130848
+s1139
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/CouponDetailsScreen.m
+c000000004F1D98020000000000000DEA
+t1327339522
+s3562
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/MyCouponsScreen.h
+c000000004F25534900000000000002BF
+t1327846217
+s703
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/MyCouponsScreen.m
+c000000004F25484B0000000000001D92
+t1327843403
+s7570
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/MyCouponsScreen.xib
+c000000004F09A39B000000000000173B
+t1326031771
+s5947
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/RecordingView.h
+c000000004F2552BD00000000000007B0
+t1327846077
+s1968
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/RecordingView.m
+c000000004F2553220000000000004551
+t1327846178
+s17745
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/Roey_ForTesting_MediaSyncLookup_Local_HalfPrecision_Normalized_20111128_1603_V4.config
+c000000004F2423C80000000000000990
+t1327768520
+s2448
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/Screen2.h
+c000000004F05B92700000000000001E6
+t1325775143
+s486
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/Screen2.m
+c000000004F1D98020000000000000A00
+t1327339522
+s2560
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/Screen2.xib
+c000000004F05DB9800000000000024EF
+t1325783960
+s9455
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/Screen5.h
+c000000004F0A051F00000000000001DC
+t1326056735
+s476
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/Screen5.m
+c000000004EDCBB8E00000000000009C3
+t1323088782
+s2499
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/Screen5.xib
+c000000004EDBA5EC0000000000003385
+t1323017708
+s13189
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/UIvWorker-Prefix.pch
+c000000004EDB71AC0000000000000141
+t1323004332
+s321
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/coupon.h
+c000000004F06F5360000000000000252
+t1325856054
+s594
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/en.lproj/CouponDetailsScreen.xib
+c000000004F241F5F0000000000006516
+t1327767391
+s25878
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/en.lproj/InfoPlist.strings
+c000000004EDB71AC000000000000002D
+t1323004332
+s45
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/en.lproj/RecordingView.xib
+c000000004F25461600000000000049D1
+t1327842838
+s18897
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/first.png
+c000000004E7BF98C00000000000000FD
+t1316747660
+s253
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/first@2x.png
+c000000004E7BF98C0000000000000192
+t1316747660
+s402
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/libs/libcrypto.a
+c000000004F1628A400000000008CE3F4
+t1326852260
+s9233396
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/libs/libcurl.a
+c000000004F1628A400000000001516D4
+t1326852260
+s1382100
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/libs/libgcrypt.a
+c000000004F1628A400000000002E3AAC
+t1326852260
+s3029676
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/libs/libgpg-error.a
+c000000004F1628A40000000000009DC4
+t1326852260
+s40388
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/libs/libmfcbroem_ios.a
+c000000004F1628A30000000000253C40
+t1326852259
+s2440256
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/libs/libssh2.a
+c000000004F1628A400000000000B3F2C
+t1326852260
+s737068
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/libs/libssl.a
+c000000004F1628A4000000000019B584
+t1326852260
+s1684868
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/main.m
+c000000004EDB71AC0000000000000160
+t1323004332
+s352
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/second.png
+c000000004E7BF98C0000000000000080
+t1316747660
+s128
+
+N/Users/roeyl/Desktop/Ceme/UIvWorker/second@2x.png
+c000000004E7BF98C0000000000000082
+t1316747660
+s130
+
+N/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app
+t1327848238
+s1326
+
+N/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app.dSYM
+t1327848237
+s102
+
+N/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/10-bar.png
+t1327842883
+s11645
+
+N/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/12-bar.png
+t1327842883
+s12136
+
+N/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/14-bar.png
+t1327842883
+s12657
+
+N/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/16-bar.png
+t1327842883
+s13204
+
+N/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/2-bar.png
+t1327842883
+s9137
+
+N/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/4-bar.png
+t1327842883
+s9705
+
+N/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/6-bar.png
+t1327842883
+s10351
+
+N/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/8-bar.png
+t1327842883
+s11039
+
+N/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/Cancelbutton.png
+t1327842883
+s12044
+
+N/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/CeMeDB.amdb
+t1327842884
+s1717620
+
+N/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/Hagolan.jpg
+t1327842884
+s34692
+
+N/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/Icon-2.png
+t1327842883
+s4046
+
+N/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/Icon4.png
+t1327842883
+s3679
+
+N/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/Info.plist
+t1327842858
+s795
+
+N/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/MyCouponsScreen.nib
+t1327842882
+s1189
+
+N/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/PkgInfo
+t1327842858
+s8
+
+N/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/Roey_ForTesting_MediaSyncLookup_Local_HalfPrecision_Normalized_20111128_1603_V4.config
+t1327842884
+s2448
+
+N/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/Screen2.nib
+t1327842881
+s1931
+
+N/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/Screen5.nib
+t1327842882
+s2481
+
+N/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/Tab-1.png
+t1327842884
+s2649
+
+N/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/UIvWorker
+t1327848237
+s3876288
+
+N/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/Zero.jpg
+t1327842884
+s35143
+
+N/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/backgound.png
+t1327842883
+s213343
+
+N/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/bot-icon-record.png
+t1327842883
+s3599
+
+N/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/colored.png
+t1327842883
+s13679
+
+N/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/dark.png
+t1327842883
+s8565
+
+N/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/en.lproj/CouponDetailsScreen.nib
+t1327842880
+s2904
+
+N/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/en.lproj/InfoPlist.strings
+t1327842873
+s42
+
+N/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/en.lproj/RecordingView.nib
+t1327842874
+s2613
+
+N/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/first.png
+t1327842873
+s253
+
+N/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/first@2x.png
+t1327842873
+s402
+
+N/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/icon-3.png
+t1327842883
+s3425
+
+N/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/knob.png
+t1327842884
+s11621
+
+N/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/loading-background.png
+t1327842884
+s238946
+
+N/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/record.png
+t1327842884
+s15031
+
+N/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/ring.png
+t1327842884
+s25739
+
+N/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/second.png
+t1327842873
+s128
+
+N/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/second@2x.png
+t1327842873
+s130
+
+N/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/tab-2.png
+t1327842884
+s1769
+
+N/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASIAuthenticationDialog.o
+t1327842866
+s111000
+
+N/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASIDataCompressor.o
+t1327842866
+s20864
+
+N/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASIDataDecompressor.o
+t1327842867
+s20740
+
+N/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASIDownloadCache.o
+t1327842867
+s65092
+
+N/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASIFormDataRequest.o
+t1327842867
+s51544
+
+N/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASIHTTPRequest.o
+t1327842868
+s489840
+
+N/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASIInputStream.o
+t1327842868
+s30492
+
+N/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASINetworkQueue.o
+t1327842868
+s65204
+
+N/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/AppDelegate.o
+t1327848235
+s65984
+
+N/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/AudibleMagicSmartSync.o
+t1327842870
+s33280
+
+N/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/Coupon.o
+t1327848236
+s19132
+
+N/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/CouponDetailsScreen.o
+t1327842869
+s61500
+
+N/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/MyCouponsScreen.o
+t1327848236
+s69332
+
+N/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/Reachability.o
+t1327842869
+s32624
+
+N/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/RecordingView.o
+t1327848235
+s87160
+
+N/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/Screen2.o
+t1327846190
+s46572
+
+N/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/Screen5.o
+t1327842866
+s49640
+
+N/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/UIvWorker.LinkFileList
+c000000004F25462A00000000000008A5
+t1327842858
+s2213
+
+N/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/main.o
+t1327842864
+s2684
+
+N/Users/roeyl/Desktop/Ceme/pngs/10-bar.png
+c000000004EF85A060000000000002D7D
+t1324898822
+s11645
+
+N/Users/roeyl/Desktop/Ceme/pngs/12-bar.png
+c000000004EF85A4A0000000000002F68
+t1324898890
+s12136
+
+N/Users/roeyl/Desktop/Ceme/pngs/14-bar.png
+c000000004EF85F0E0000000000003171
+t1324900110
+s12657
+
+N/Users/roeyl/Desktop/Ceme/pngs/16-bar.png
+c000000004EF85F600000000000003394
+t1324900192
+s13204
+
+N/Users/roeyl/Desktop/Ceme/pngs/2-bar.png
+c000000004EF858E400000000000023B1
+t1324898532
+s9137
+
+N/Users/roeyl/Desktop/Ceme/pngs/4-bar.png
+c000000004EF8592E00000000000025E9
+t1324898606
+s9705
+
+N/Users/roeyl/Desktop/Ceme/pngs/6-bar.png
+c000000004EF85972000000000000286F
+t1324898674
+s10351
+
+N/Users/roeyl/Desktop/Ceme/pngs/8-bar.png
+c000000004EF859AE0000000000002B1F
+t1324898734
+s11039
+
+N/Users/roeyl/Desktop/Ceme/pngs/Cancelbutton.png
+c000000004F05DF7D0000000000002F0C
+t1325784957
+s12044
+
+N/Users/roeyl/Desktop/Ceme/pngs/Hagolan.jpg
+c000000004F1D91820000000000008784
+t1327337858
+s34692
+
+N/Users/roeyl/Desktop/Ceme/pngs/Icon-2.png
+c000000004F2416270000000000000FCE
+t1327765031
+s4046
+
+N/Users/roeyl/Desktop/Ceme/pngs/Icon4.png
+c000000004F24167B0000000000000E5F
+t1327765115
+s3679
+
+N/Users/roeyl/Desktop/Ceme/pngs/Tab-1.png
+c000000004EF667500000000000000A59
+t1324771152
+s2649
+
+N/Users/roeyl/Desktop/Ceme/pngs/Zero.jpg
+c000000004F1D91820000000000008947
+t1327337858
+s35143
+
+N/Users/roeyl/Desktop/Ceme/pngs/backgound.png
+c000000004EF66088000000000003415F
+t1324769416
+s213343
+
+N/Users/roeyl/Desktop/Ceme/pngs/bot-icon-record.png
+c000000004F2416910000000000000E0F
+t1327765137
+s3599
+
+N/Users/roeyl/Desktop/Ceme/pngs/colored.png
+c000000004EF8588E000000000000356F
+t1324898446
+s13679
+
+N/Users/roeyl/Desktop/Ceme/pngs/dark.png
+c000000004EF858AC0000000000002175
+t1324898476
+s8565
+
+N/Users/roeyl/Desktop/Ceme/pngs/icon-3.png
+c000000004F2416550000000000000D61
+t1327765077
+s3425
+
+N/Users/roeyl/Desktop/Ceme/pngs/knob.png
+c000000004EF658880000000000002D65
+t1324767368
+s11621
+
+N/Users/roeyl/Desktop/Ceme/pngs/loading-background.png
+c000000004EF66174000000000003A562
+t1324769652
+s238946
+
+N/Users/roeyl/Desktop/Ceme/pngs/record.png
+c000000004EF6589E0000000000003AB7
+t1324767390
+s15031
+
+N/Users/roeyl/Desktop/Ceme/pngs/ring.png
+c000000004EF6586A000000000000648B
+t1324767338
+s25739
+
+N/Users/roeyl/Desktop/Ceme/pngs/tab-2.png
+c000000004EF6683E00000000000006E9
+t1324771390
+s1769
+
+N/var/folders/rk/00zdb67x71s8t7q6bl_0q9g80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/UIvWorker-Prefix-eeqtvswddunsfbfazjpjxqhaxxmn/UIvWorker-Prefix.pch.pth
+t1327842863
+s3914692
+
+N/var/folders/rk/00zdb67x71s8t7q6bl_0q9g80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/UIvWorker-Prefix-efsdxhukvjktythkblmleduxspjn/UIvWorker-Prefix.pch.pth
+t1327842863
+s3907244
+
+NUIvWorker/UIvWorker-Info.plist
+c000000004EDB72F4000000000000048A
+t1323004660
+s1162
+
+CBuild AST from /Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIAuthenticationDialog.m
+r0
+
+CBuild AST from /Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIDataCompressor.m
+r0
+
+CBuild AST from /Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIDataDecompressor.m
+r0
+
+CBuild AST from /Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIDownloadCache.m
+r0
+
+CBuild AST from /Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIFormDataRequest.m
+r0
+
+CBuild AST from /Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIHTTPRequest.m
+r0
+
+CBuild AST from /Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIInputStream.m
+r0
+
+CBuild AST from /Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASINetworkQueue.m
+r0
+
+CBuild AST from /Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/Reachability/Reachability.m
+r0
+
+CBuild AST from /Users/roeyl/Desktop/Ceme/UIvWorker/AppDelegate.m
+r0
+
+CBuild AST from /Users/roeyl/Desktop/Ceme/UIvWorker/AudibleMagic_sources/AudibleMagicSmartSync.m
+r0
+
+CBuild AST from /Users/roeyl/Desktop/Ceme/UIvWorker/Coupon.m
+r0
+
+CBuild AST from /Users/roeyl/Desktop/Ceme/UIvWorker/CouponDetailsScreen.m
+r0
+
+CBuild AST from /Users/roeyl/Desktop/Ceme/UIvWorker/MyCouponsScreen.m
+r0
+
+CBuild AST from /Users/roeyl/Desktop/Ceme/UIvWorker/RecordingView.m
+r0
+
+CBuild AST from /Users/roeyl/Desktop/Ceme/UIvWorker/Screen2.m
+r0
+
+CBuild AST from /Users/roeyl/Desktop/Ceme/UIvWorker/Screen5.m
+r0
+
+CBuild AST from /Users/roeyl/Desktop/Ceme/UIvWorker/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies8203522795d5b441^0b9a7a2795d5b441^---0#1#0#--18"Check dependencies36"D7ABE1EC-6791-43AB-A2BB-14A4FEFF7761-
+
+CCompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASIAuthenticationDialog.o /Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIAuthenticationDialog.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s349535666.653753
+e349535666.848541
+r1
+xCompileC
+xbuild/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASIAuthenticationDialog.o
+x/Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIAuthenticationDialog.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIAuthenticationDialog.mf582a7b27dd5b441^8848d9b27dd5b441^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIAuthenticationDialog.m0000000000000000^2688"CompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASIAuthenticationDialog.o UIvWorker/ASIHTTP/ASIAuthenticationDialog.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/roeyl/Desktop/Ceme    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-generated-files.hmap -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-own-target-headers.hmap -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-all-target-headers.hmap -iquote /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-project-headers.hmap -I/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/include -I/Developer/Extras/CoreAudio/PublicUtility -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/DerivedSources/i386 -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/DerivedSources -F/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator -fno-objc-arc -include /var/folders/rk/00zdb67x71s8t7q6bl_0q9g80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/UIvWorker-Prefix-efsdxhukvjktythkblmleduxspjn/UIvWorker-Prefix.pch -MMD -MT dependencies -MF /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASIAuthenticationDialog.d -c /Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIAuthenticationDialog.m -o /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASIAuthenticationDialog.o36"3CC029FC-4D35-40F9-8AE2-27BAD5D13C3A-
+
+CCompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASIDataCompressor.o /Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIDataCompressor.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s349535666.851221
+e349535666.957868
+r1
+xCompileC
+xbuild/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASIDataCompressor.o
+x/Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIDataCompressor.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIDataCompressor.m070cdab27dd5b441^5d52f5b27dd5b441^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIDataCompressor.m0000000000000000^2658"CompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASIDataCompressor.o UIvWorker/ASIHTTP/ASIDataCompressor.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/roeyl/Desktop/Ceme    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-generated-files.hmap -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-own-target-headers.hmap -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-all-target-headers.hmap -iquote /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-project-headers.hmap -I/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/include -I/Developer/Extras/CoreAudio/PublicUtility -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/DerivedSources/i386 -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/DerivedSources -F/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator -fno-objc-arc -include /var/folders/rk/00zdb67x71s8t7q6bl_0q9g80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/UIvWorker-Prefix-efsdxhukvjktythkblmleduxspjn/UIvWorker-Prefix.pch -MMD -MT dependencies -MF /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASIDataCompressor.d -c /Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIDataCompressor.m -o /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASIDataCompressor.o36"4D5CD0E1-123B-4C84-A0F0-AB2EE7551124-
+
+CCompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASIDataDecompressor.o /Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIDataDecompressor.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s349535666.962195
+e349535667.020712
+r1
+xCompileC
+xbuild/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASIDataDecompressor.o
+x/Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIDataDecompressor.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIDataDecompressor.m2575f6b27dd5b441^486a05b37dd5b441^---0#0#0#-19%DVTDocumentLocation2@81"file://localhost/Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIDataDecompressor.m0000000000000000^2668"CompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASIDataDecompressor.o UIvWorker/ASIHTTP/ASIDataDecompressor.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/roeyl/Desktop/Ceme    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-generated-files.hmap -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-own-target-headers.hmap -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-all-target-headers.hmap -iquote /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-project-headers.hmap -I/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/include -I/Developer/Extras/CoreAudio/PublicUtility -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/DerivedSources/i386 -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/DerivedSources -F/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator -fno-objc-arc -include /var/folders/rk/00zdb67x71s8t7q6bl_0q9g80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/UIvWorker-Prefix-efsdxhukvjktythkblmleduxspjn/UIvWorker-Prefix.pch -MMD -MT dependencies -MF /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASIDataDecompressor.d -c /Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIDataDecompressor.m -o /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASIDataDecompressor.o36"2FB6F8D8-E304-488A-A494-3910FF4243C6-
+
+CCompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASIDownloadCache.o /Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIDownloadCache.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s349535667.026244
+e349535667.333574
+r1
+xCompileC
+xbuild/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASIDownloadCache.o
+x/Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIDownloadCache.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIDownloadCache.m45da06b37dd5b441^c77f55b37dd5b441^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIDownloadCache.m0000000000000000^2653"CompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASIDownloadCache.o UIvWorker/ASIHTTP/ASIDownloadCache.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/roeyl/Desktop/Ceme    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-generated-files.hmap -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-own-target-headers.hmap -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-all-target-headers.hmap -iquote /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-project-headers.hmap -I/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/include -I/Developer/Extras/CoreAudio/PublicUtility -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/DerivedSources/i386 -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/DerivedSources -F/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator -fno-objc-arc -include /var/folders/rk/00zdb67x71s8t7q6bl_0q9g80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/UIvWorker-Prefix-efsdxhukvjktythkblmleduxspjn/UIvWorker-Prefix.pch -MMD -MT dependencies -MF /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASIDownloadCache.d -c /Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIDownloadCache.m -o /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASIDownloadCache.o36"BA227149-BE71-4A21-B149-F6BCB6799444-
+
+CCompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASIFormDataRequest.o /Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIFormDataRequest.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s349535667.338919
+e349535667.417626
+r1
+xCompileC
+xbuild/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASIFormDataRequest.o
+x/Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIFormDataRequest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIFormDataRequest.mb4e756b37dd5b441^6d036bb37dd5b441^---0#0#0#-19%DVTDocumentLocation2@80"file://localhost/Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIFormDataRequest.m0000000000000000^2663"CompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASIFormDataRequest.o UIvWorker/ASIHTTP/ASIFormDataRequest.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/roeyl/Desktop/Ceme    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-generated-files.hmap -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-own-target-headers.hmap -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-all-target-headers.hmap -iquote /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-project-headers.hmap -I/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/include -I/Developer/Extras/CoreAudio/PublicUtility -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/DerivedSources/i386 -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/DerivedSources -F/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator -fno-objc-arc -include /var/folders/rk/00zdb67x71s8t7q6bl_0q9g80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/UIvWorker-Prefix-efsdxhukvjktythkblmleduxspjn/UIvWorker-Prefix.pch -MMD -MT dependencies -MF /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASIFormDataRequest.d -c /Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIFormDataRequest.m -o /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASIFormDataRequest.o36"153A7082-6224-48A9-AB84-52017D18F023-
+
+CCompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASIHTTPRequest.o /Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIHTTPRequest.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s349535667.421179
+e349535668.597191
+r1
+xCompileC
+xbuild/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASIHTTPRequest.o
+x/Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIHTTPRequest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIHTTPRequest.mfdf46bb37dd5b441^80f198b47dd5b441^---0#0#0#-19%DVTDocumentLocation2@76"file://localhost/Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIHTTPRequest.m0000000000000000^2643"CompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASIHTTPRequest.o UIvWorker/ASIHTTP/ASIHTTPRequest.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/roeyl/Desktop/Ceme    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-generated-files.hmap -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-own-target-headers.hmap -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-all-target-headers.hmap -iquote /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-project-headers.hmap -I/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/include -I/Developer/Extras/CoreAudio/PublicUtility -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/DerivedSources/i386 -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/DerivedSources -F/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator -fno-objc-arc -include /var/folders/rk/00zdb67x71s8t7q6bl_0q9g80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/UIvWorker-Prefix-efsdxhukvjktythkblmleduxspjn/UIvWorker-Prefix.pch -MMD -MT dependencies -MF /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASIHTTPRequest.d -c /Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIHTTPRequest.m -o /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASIHTTPRequest.o36"64080AE4-F290-40F1-902C-135FB1689A05-
+
+CCompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASIInputStream.o /Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIInputStream.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s349535668.601275
+e349535668.684185
+r1
+xCompileC
+xbuild/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASIInputStream.o
+x/Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIInputStream.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIInputStream.mcf109ab47dd5b441^603cafb47dd5b441^---0#0#0#-19%DVTDocumentLocation2@76"file://localhost/Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIInputStream.m0000000000000000^2643"CompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASIInputStream.o UIvWorker/ASIHTTP/ASIInputStream.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/roeyl/Desktop/Ceme    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-generated-files.hmap -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-own-target-headers.hmap -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-all-target-headers.hmap -iquote /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-project-headers.hmap -I/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/include -I/Developer/Extras/CoreAudio/PublicUtility -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/DerivedSources/i386 -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/DerivedSources -F/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator -fno-objc-arc -include /var/folders/rk/00zdb67x71s8t7q6bl_0q9g80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/UIvWorker-Prefix-efsdxhukvjktythkblmleduxspjn/UIvWorker-Prefix.pch -MMD -MT dependencies -MF /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASIInputStream.d -c /Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASIInputStream.m -o /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASIInputStream.o36"3B65314E-C19C-4D2A-BF44-99245ECA531E-
+
+CCompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASINetworkQueue.o /Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASINetworkQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s349535668.685982
+e349535668.792907
+r1
+xCompileC
+xbuild/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASINetworkQueue.o
+x/Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASINetworkQueue.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASINetworkQueue.m8cbdafb47dd5b441^b212cbb47dd5b441^---0#0#0#-19%DVTDocumentLocation2@77"file://localhost/Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASINetworkQueue.m0000000000000000^2648"CompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASINetworkQueue.o UIvWorker/ASIHTTP/ASINetworkQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/roeyl/Desktop/Ceme    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-generated-files.hmap -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-own-target-headers.hmap -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-all-target-headers.hmap -iquote /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-project-headers.hmap -I/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/include -I/Developer/Extras/CoreAudio/PublicUtility -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/DerivedSources/i386 -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/DerivedSources -F/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator -fno-objc-arc -include /var/folders/rk/00zdb67x71s8t7q6bl_0q9g80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/UIvWorker-Prefix-efsdxhukvjktythkblmleduxspjn/UIvWorker-Prefix.pch -MMD -MT dependencies -MF /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASINetworkQueue.d -c /Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/ASINetworkQueue.m -o /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/ASINetworkQueue.o36"44271183-0931-497B-986F-3680B02B6669-
+
+CCompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/AppDelegate.o /Users/roeyl/Desktop/Ceme/UIvWorker/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s349541034.245099
+e349541035.200968
+r1
+xCompileC
+xbuild/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/AppDelegate.o
+x/Users/roeyl/Desktop/Ceme/UIvWorker/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Compile /Users/roeyl/Desktop/Ceme/UIvWorker/AppDelegate.mc1e43eaa92d5b441^998433ab92d5b441^---0#0#0#-19%DVTDocumentLocation2@65"file://localhost/Users/roeyl/Desktop/Ceme/UIvWorker/AppDelegate.m0000000000000000^2598"CompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/AppDelegate.o UIvWorker/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/roeyl/Desktop/Ceme    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-generated-files.hmap -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-own-target-headers.hmap -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-all-target-headers.hmap -iquote /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-project-headers.hmap -I/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/include -I/Developer/Extras/CoreAudio/PublicUtility -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/DerivedSources/i386 -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/DerivedSources -F/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator -include /var/folders/rk/00zdb67x71s8t7q6bl_0q9g80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/UIvWorker-Prefix-eeqtvswddunsfbfazjpjxqhaxxmn/UIvWorker-Prefix.pch -MMD -MT dependencies -MF /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/AppDelegate.d -c /Users/roeyl/Desktop/Ceme/UIvWorker/AppDelegate.m -o /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/AppDelegate.o36"FD983A61-9BA9-47C2-9032-1607DA41CB6D-
+
+CCompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/AudibleMagicSmartSync.o /Users/roeyl/Desktop/Ceme/UIvWorker/AudibleMagic_sources/AudibleMagicSmartSync.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s349535669.945628
+e349535670.242487
+r1
+xCompileC
+xbuild/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/AudibleMagicSmartSync.o
+x/Users/roeyl/Desktop/Ceme/UIvWorker/AudibleMagic_sources/AudibleMagicSmartSync.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/roeyl/Desktop/Ceme/UIvWorker/AudibleMagic_sources/AudibleMagicSmartSync.m8f55f2b57dd5b441^d42a3eb67dd5b441^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/roeyl/Desktop/Ceme/UIvWorker/AudibleMagic_sources/AudibleMagicSmartSync.m0000000000000000^2690"CompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/AudibleMagicSmartSync.o UIvWorker/AudibleMagic_sources/AudibleMagicSmartSync.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/roeyl/Desktop/Ceme    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-generated-files.hmap -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-own-target-headers.hmap -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-all-target-headers.hmap -iquote /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-project-headers.hmap -I/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/include -I/Developer/Extras/CoreAudio/PublicUtility -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/DerivedSources/i386 -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/DerivedSources -F/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator -include /var/folders/rk/00zdb67x71s8t7q6bl_0q9g80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/UIvWorker-Prefix-eeqtvswddunsfbfazjpjxqhaxxmn/UIvWorker-Prefix.pch -MMD -MT dependencies -MF /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/AudibleMagicSmartSync.d -c /Users/roeyl/Desktop/Ceme/UIvWorker/AudibleMagic_sources/AudibleMagicSmartSync.m -o /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/AudibleMagicSmartSync.o36"5F54A56F-4841-441F-86E4-BDC89000EEEA-
+
+CCompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/Coupon.o /Users/roeyl/Desktop/Ceme/UIvWorker/Coupon.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s349541036.467678
+e349541036.609743
+r1
+xCompileC
+xbuild/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/Coupon.o
+x/Users/roeyl/Desktop/Ceme/UIvWorker/Coupon.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Compile /Users/roeyl/Desktop/Ceme/UIvWorker/Coupon.me8de77ac92d5b441^57269cac92d5b441^---0#0#0#-19%DVTDocumentLocation2@60"file://localhost/Users/roeyl/Desktop/Ceme/UIvWorker/Coupon.m0000000000000000^2573"CompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/Coupon.o UIvWorker/Coupon.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/roeyl/Desktop/Ceme    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-generated-files.hmap -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-own-target-headers.hmap -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-all-target-headers.hmap -iquote /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-project-headers.hmap -I/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/include -I/Developer/Extras/CoreAudio/PublicUtility -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/DerivedSources/i386 -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/DerivedSources -F/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator -include /var/folders/rk/00zdb67x71s8t7q6bl_0q9g80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/UIvWorker-Prefix-eeqtvswddunsfbfazjpjxqhaxxmn/UIvWorker-Prefix.pch -MMD -MT dependencies -MF /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/Coupon.d -c /Users/roeyl/Desktop/Ceme/UIvWorker/Coupon.m -o /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/Coupon.o36"6DB6CC4A-C3CD-48C6-A146-0445141F3B8C-
+
+CCompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/CouponDetailsScreen.o /Users/roeyl/Desktop/Ceme/UIvWorker/CouponDetailsScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s349535669.696456
+e349535669.937965
+r1
+xCompileC
+xbuild/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/CouponDetailsScreen.o
+x/Users/roeyl/Desktop/Ceme/UIvWorker/CouponDetailsScreen.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/roeyl/Desktop/Ceme/UIvWorker/CouponDetailsScreen.m:13:1: warning: incomplete implementation [-Wincomplete-implementation,3]
+o @implementation CouponDetailsScreen
+o ^
+o/Users/roeyl/Desktop/Ceme/UIvWorker/CouponDetailsScreen.h:21:1: note: method definition for 'DisplayTab1:' not found [3]
+o - (IBAction)DisplayTab1:(id)sender;
+o ^
+o/Users/roeyl/Desktop/Ceme/UIvWorker/CouponDetailsScreen.h:22:1: note: method definition for 'DisplayTab2:' not found [3]
+o - (IBAction)DisplayTab2:(id)sender;
+o ^
+o/Users/roeyl/Desktop/Ceme/UIvWorker/CouponDetailsScreen.h:23:1: note: method definition for 'DisplayTab3:' not found [3]
+o - (IBAction)DisplayTab3:(id)sender;
+o ^
+o1 warning generated.
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/roeyl/Desktop/Ceme/UIvWorker/CouponDetailsScreen.m7a71b2b57dd5b441^a034f0b57dd5b441^-675"/Users/roeyl/Desktop/Ceme/UIvWorker/CouponDetailsScreen.m:13:1: warning: incomplete implementation [-Wincomplete-implementation,3] @implementation CouponDetailsScreen ^/Users/roeyl/Desktop/Ceme/UIvWorker/CouponDetailsScreen.h:21:1: note: method definition for 'DisplayTab1:' not found [3] - (IBAction)DisplayTab1:(id)sender; ^/Users/roeyl/Desktop/Ceme/UIvWorker/CouponDetailsScreen.h:22:1: note: method definition for 'DisplayTab2:' not found [3] - (IBAction)DisplayTab2:(id)sender; ^/Users/roeyl/Desktop/Ceme/UIvWorker/CouponDetailsScreen.h:23:1: note: method definition for 'DisplayTab3:' not found [3] - (IBAction)DisplayTab3:(id)sender; ^1 warning generated.1(21%IDEActivityLogMessage2@25"Incomplete implementation-349535669#0#131#3(2@46"Method definition for 'DisplayTab1:' not found-349535669#171#121#-0#-23%DVTTextDocumentLocation3@73"file://localhost/Users/roeyl/Desktop/Ceme/UIvWorker/CouponDetailsScreen.h0000000000000000^20#0#20#0#18446744073709551615#0#14"Semantic Issue--2@46"Method definition for 'DisplayTab2:' not found-349535669#332#121#-0#-3@73"file://localhost/Users/roeyl/Desktop/Ceme/UIvWorker/CouponDetailsScreen.h0000000000000000^21#0#21#0#18446744073709551615#0#14"Semantic Issue--2@46"Method definition for 'DisplayTab3:' not found-349535669#493#121#-0#-3@73"file://localhost/Users/roeyl/Desktop/Ceme/UIvWorker/CouponDetailsScreen.h0000000000000000^22#0#22#0#18446744073709551615#0#14"Semantic Issue--1#-3@73"file://localhost/Users/roeyl/Desktop/Ceme/UIvWorker/CouponDetailsScreen.m0000000000000000^12#0#12#0#18446744073709551615#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation4@73"file://localhost/Users/roeyl/Desktop/Ceme/UIvWorker/CouponDetailsScreen.m0000000000000000^2638"CompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/CouponDetailsScreen.o UIvWorker/CouponDetailsScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/roeyl/Desktop/Ceme    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-generated-files.hmap -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-own-target-headers.hmap -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-all-target-headers.hmap -iquote /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-project-headers.hmap -I/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/include -I/Developer/Extras/CoreAudio/PublicUtility -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/DerivedSources/i386 -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/DerivedSources -F/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator -include /var/folders/rk/00zdb67x71s8t7q6bl_0q9g80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/UIvWorker-Prefix-eeqtvswddunsfbfazjpjxqhaxxmn/UIvWorker-Prefix.pch -MMD -MT dependencies -MF /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/CouponDetailsScreen.d -c /Users/roeyl/Desktop/Ceme/UIvWorker/CouponDetailsScreen.m -o /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/CouponDetailsScreen.o36"E69ED97A-D432-4EB2-9335-E6CAED309A41-
+
+CCompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/MyCouponsScreen.o /Users/roeyl/Desktop/Ceme/UIvWorker/MyCouponsScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s349541035.977245
+e349541036.447249
+r1
+xCompileC
+xbuild/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/MyCouponsScreen.o
+x/Users/roeyl/Desktop/Ceme/UIvWorker/MyCouponsScreen.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/roeyl/Desktop/Ceme/UIvWorker/MyCouponsScreen.m:70:15: warning: unused variable 'IdString' [-Wunused-variable,12]
+o     NSString* IdString = [NSString stringWithFormat:@"%d", numOfNewCoupons];
+o               ^
+o/Users/roeyl/Desktop/Ceme/UIvWorker/MyCouponsScreen.m:104:2: warning: #warning Potentially incomplete method implementation. [-W#warnings,7]
+o #warning Potentially incomplete method implementation.
+o  ^
+o/Users/roeyl/Desktop/Ceme/UIvWorker/MyCouponsScreen.m:111:2: warning: #warning Incomplete method implementation. [-W#warnings,7]
+o #warning Incomplete method implementation.
+o  ^
+o3 warnings generated.
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/roeyl/Desktop/Ceme/UIvWorker/MyCouponsScreen.md34dfaab92d5b441^09ff76ac92d5b441^-615"/Users/roeyl/Desktop/Ceme/UIvWorker/MyCouponsScreen.m:70:15: warning: unused variable 'IdString' [-Wunused-variable,12]     NSString* IdString = [NSString stringWithFormat:@"%d", numOfNewCoupons];               ^/Users/roeyl/Desktop/Ceme/UIvWorker/MyCouponsScreen.m:104:2: warning: #warning Potentially incomplete method implementation. [-W#warnings,7] #warning Potentially incomplete method implementation.  ^/Users/roeyl/Desktop/Ceme/UIvWorker/MyCouponsScreen.m:111:2: warning: #warning Incomplete method implementation. [-W#warnings,7] #warning Incomplete method implementation.  ^3 warnings generated.3(21%IDEActivityLogMessage2@26"Unused variable 'IdString'-349541036#0#120#-1#-23%DVTTextDocumentLocation3@69"file://localhost/Users/roeyl/Desktop/Ceme/UIvWorker/MyCouponsScreen.m0000000000000000^69#14#69#14#18446744073709551615#0#19"Unused Entity Issue--2@54"#warning Potentially incomplete method implementation.-349541036#215#141#-1#-3@69"file://localhost/Users/roeyl/Desktop/Ceme/UIvWorker/MyCouponsScreen.m0000000000000000^103#1#103#1#18446744073709551615#0#18"#warning Directive--2@42"#warning Incomplete method implementation.-349541036#416#129#-1#-3@69"file://localhost/Users/roeyl/Desktop/Ceme/UIvWorker/MyCouponsScreen.m0000000000000000^110#1#110#1#18446744073709551615#0#18"#warning Directive--0#0#0#-19%DVTDocumentLocation4@69"file://localhost/Users/roeyl/Desktop/Ceme/UIvWorker/MyCouponsScreen.m0000000000000000^2618"CompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/MyCouponsScreen.o UIvWorker/MyCouponsScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/roeyl/Desktop/Ceme    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-generated-files.hmap -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-own-target-headers.hmap -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-all-target-headers.hmap -iquote /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-project-headers.hmap -I/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/include -I/Developer/Extras/CoreAudio/PublicUtility -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/DerivedSources/i386 -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/DerivedSources -F/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator -include /var/folders/rk/00zdb67x71s8t7q6bl_0q9g80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/UIvWorker-Prefix-eeqtvswddunsfbfazjpjxqhaxxmn/UIvWorker-Prefix.pch -MMD -MT dependencies -MF /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/MyCouponsScreen.d -c /Users/roeyl/Desktop/Ceme/UIvWorker/MyCouponsScreen.m -o /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/MyCouponsScreen.o36"1AE5EB37-C04C-4354-801B-CD55A0CC1175-
+
+CCompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/Reachability.o /Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/Reachability/Reachability.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s349535668.795769
+e349535669.110704
+r1
+xCompileC
+xbuild/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/Reachability.o
+x/Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/Reachability/Reachability.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/Reachability/Reachability.mc7dacbb47dd5b441^a0c31cb57dd5b441^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/Reachability/Reachability.m0000000000000000^2659"CompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/Reachability.o UIvWorker/ASIHTTP/Reachability/Reachability.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/roeyl/Desktop/Ceme    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-generated-files.hmap -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-own-target-headers.hmap -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-all-target-headers.hmap -iquote /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-project-headers.hmap -I/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/include -I/Developer/Extras/CoreAudio/PublicUtility -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/DerivedSources/i386 -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/DerivedSources -F/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator -fno-objc-arc -include /var/folders/rk/00zdb67x71s8t7q6bl_0q9g80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/UIvWorker-Prefix-efsdxhukvjktythkblmleduxspjn/UIvWorker-Prefix.pch -MMD -MT dependencies -MF /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/Reachability.d -c /Users/roeyl/Desktop/Ceme/UIvWorker/ASIHTTP/Reachability/Reachability.m -o /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/Reachability.o36"C1AFBE3D-06AE-4DA9-BAE3-E49044DFCADA-
+
+CCompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/RecordingView.o /Users/roeyl/Desktop/Ceme/UIvWorker/RecordingView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s349541035.204910
+e349541035.484705
+r1
+xCompileC
+xbuild/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/RecordingView.o
+x/Users/roeyl/Desktop/Ceme/UIvWorker/RecordingView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/roeyl/Desktop/Ceme/UIvWorker/RecordingView.m:94:15: warning: unused variable 'displayVersion' [-Wunused-variable,12]
+o     NSString *displayVersion = [[NSString alloc] initWithFormat:@"AUDIBLE MAGIC SmartSync Sample App, Version %@-%@", myAppVersion, amObject.libraryVersion];
+o               ^
+o/Users/roeyl/Desktop/Ceme/UIvWorker/RecordingView.m:245:11: warning: unused variable 'linear2' [-Wunused-variable,12]
+o     float linear2 = pow (10, peakPower2 / 20);
+o           ^
+o/Users/roeyl/Desktop/Ceme/UIvWorker/RecordingView.m:20:1: warning: incomplete implementation [-Wincomplete-implementation,3]
+o @implementation RecordingView
+o ^
+o/Users/roeyl/Desktop/Ceme/UIvWorker/RecordingView.h:47:1: note: method definition for 'queryAudioScoutServer' not found [3]
+o -(void) queryAudioScoutServer;
+o ^
+o/Users/roeyl/Desktop/Ceme/UIvWorker/RecordingView.h:48:1: note: method definition for 'uploadRecordedSample' not found [3]
+o -(void) uploadRecordedSample;
+o ^
+o/Users/roeyl/Desktop/Ceme/UIvWorker/RecordingView.h:49:1: note: method definition for 'dismissKeyboard' not found [3]
+o -(void) dismissKeyboard;
+o ^
+o3 warnings generated.
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/roeyl/Desktop/Ceme/UIvWorker/RecordingView.md19534ab92d5b441^48357cab92d5b441^-1123"/Users/roeyl/Desktop/Ceme/UIvWorker/RecordingView.m:94:15: warning: unused variable 'displayVersion' [-Wunused-variable,12]     NSString *displayVersion = [[NSString alloc] initWithFormat:@"AUDIBLE MAGIC SmartSync Sample App, Version %@-%@", myAppVersion, amObject.libraryVersion];               ^/Users/roeyl/Desktop/Ceme/UIvWorker/RecordingView.m:245:11: warning: unused variable 'linear2' [-Wunused-variable,12]     float linear2 = pow (10, peakPower2 / 20);           ^/Users/roeyl/Desktop/Ceme/UIvWorker/RecordingView.m:20:1: warning: incomplete implementation [-Wincomplete-implementation,3] @implementation RecordingView ^/Users/roeyl/Desktop/Ceme/UIvWorker/RecordingView.h:47:1: note: method definition for 'queryAudioScoutServer' not found [3] -(void) queryAudioScoutServer; ^/Users/roeyl/Desktop/Ceme/UIvWorker/RecordingView.h:48:1: note: method definition for 'uploadRecordedSample' not found [3] -(void) uploadRecordedSample; ^/Users/roeyl/Desktop/Ceme/UIvWorker/RecordingView.h:49:1: note: method definition for 'dismissKeyboard' not found [3] -(void) dismissKeyboard; ^3 warnings generated.3(21%IDEActivityLogMessage2@32"Unused variable 'displayVersion'-349541035#0#124#-1#-23%DVTTextDocumentLocation3@67"file://localhost/Users/roeyl/Desktop/Ceme/UIvWorker/RecordingView.m0000000000000000^93#14#93#14#18446744073709551615#0#19"Unused Entity Issue--2@25"Unused variable 'linear2'-349541035#300#118#-1#-3@67"file://localhost/Users/roeyl/Desktop/Ceme/UIvWorker/RecordingView.m0000000000000000^244#10#244#10#18446744073709551615#0#19"Unused Entity Issue--2@25"Incomplete implementation-349541035#479#125#3(2@55"Method definition for 'queryAudioScoutServer' not found-349541035#638#124#-0#-3@67"file://localhost/Users/roeyl/Desktop/Ceme/UIvWorker/RecordingView.h0000000000000000^46#0#46#0#18446744073709551615#0#14"Semantic Issue--2@54"Method definition for 'uploadRecordedSample' not found-349541035#797#123#-0#-3@67"file://localhost/Users/roeyl/Desktop/Ceme/UIvWorker/RecordingView.h0000000000000000^47#0#47#0#18446744073709551615#0#14"Semantic Issue--2@49"Method definition for 'dismissKeyboard' not found-349541035#954#118#-0#-3@67"file://localhost/Users/roeyl/Desktop/Ceme/UIvWorker/RecordingView.h0000000000000000^48#0#48#0#18446744073709551615#0#14"Semantic Issue--1#-3@67"file://localhost/Users/roeyl/Desktop/Ceme/UIvWorker/RecordingView.m0000000000000000^19#0#19#0#18446744073709551615#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation4@67"file://localhost/Users/roeyl/Desktop/Ceme/UIvWorker/RecordingView.m0000000000000000^2608"CompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/RecordingView.o UIvWorker/RecordingView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/roeyl/Desktop/Ceme    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-generated-files.hmap -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-own-target-headers.hmap -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-all-target-headers.hmap -iquote /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-project-headers.hmap -I/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/include -I/Developer/Extras/CoreAudio/PublicUtility -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/DerivedSources/i386 -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/DerivedSources -F/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator -include /var/folders/rk/00zdb67x71s8t7q6bl_0q9g80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/UIvWorker-Prefix-eeqtvswddunsfbfazjpjxqhaxxmn/UIvWorker-Prefix.pch -MMD -MT dependencies -MF /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/RecordingView.d -c /Users/roeyl/Desktop/Ceme/UIvWorker/RecordingView.m -o /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/RecordingView.o36"D7B2BC9A-EA85-4E84-8365-8F2FE2735328-
+
+CCompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/Screen2.o /Users/roeyl/Desktop/Ceme/UIvWorker/Screen2.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s349538990.548269
+e349538990.739039
+r1
+xCompileC
+xbuild/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/Screen2.o
+x/Users/roeyl/Desktop/Ceme/UIvWorker/Screen2.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Compile /Users/roeyl/Desktop/Ceme/UIvWorker/Screen2.ma27d8cae8ad5b441^6a4bbdae8ad5b441^---0#0#0#-19%DVTDocumentLocation2@61"file://localhost/Users/roeyl/Desktop/Ceme/UIvWorker/Screen2.m0000000000000000^2578"CompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/Screen2.o UIvWorker/Screen2.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/roeyl/Desktop/Ceme    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-generated-files.hmap -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-own-target-headers.hmap -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-all-target-headers.hmap -iquote /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-project-headers.hmap -I/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/include -I/Developer/Extras/CoreAudio/PublicUtility -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/DerivedSources/i386 -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/DerivedSources -F/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator -include /var/folders/rk/00zdb67x71s8t7q6bl_0q9g80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/UIvWorker-Prefix-eeqtvswddunsfbfazjpjxqhaxxmn/UIvWorker-Prefix.pch -MMD -MT dependencies -MF /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/Screen2.d -c /Users/roeyl/Desktop/Ceme/UIvWorker/Screen2.m -o /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/Screen2.o36"E292E5D8-01ED-44A7-BDC9-3D7898A4D8F4-
+
+CCompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/Screen5.o /Users/roeyl/Desktop/Ceme/UIvWorker/Screen5.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s349535666.411288
+e349535666.649525
+r1
+xCompileC
+xbuild/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/Screen5.o
+x/Users/roeyl/Desktop/Ceme/UIvWorker/Screen5.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Compile /Users/roeyl/Desktop/Ceme/UIvWorker/Screen5.m516c69b27dd5b441^355ea6b27dd5b441^---0#0#0#-19%DVTDocumentLocation2@61"file://localhost/Users/roeyl/Desktop/Ceme/UIvWorker/Screen5.m0000000000000000^2578"CompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/Screen5.o UIvWorker/Screen5.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/roeyl/Desktop/Ceme    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-generated-files.hmap -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-own-target-headers.hmap -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-all-target-headers.hmap -iquote /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-project-headers.hmap -I/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/include -I/Developer/Extras/CoreAudio/PublicUtility -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/DerivedSources/i386 -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/DerivedSources -F/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator -include /var/folders/rk/00zdb67x71s8t7q6bl_0q9g80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/UIvWorker-Prefix-eeqtvswddunsfbfazjpjxqhaxxmn/UIvWorker-Prefix.pch -MMD -MT dependencies -MF /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/Screen5.d -c /Users/roeyl/Desktop/Ceme/UIvWorker/Screen5.m -o /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/Screen5.o36"655B904F-F27E-4DC5-88C3-70CB3245E5D6-
+
+CCompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/main.o /Users/roeyl/Desktop/Ceme/UIvWorker/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s349535663.833845
+e349535664.808913
+r1
+xCompileC
+xbuild/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/main.o
+x/Users/roeyl/Desktop/Ceme/UIvWorker/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Compile /Users/roeyl/Desktop/Ceme/UIvWorker/main.me09cd5af7dd5b441^9624cfb07dd5b441^---0#0#0#-19%DVTDocumentLocation2@58"file://localhost/Users/roeyl/Desktop/Ceme/UIvWorker/main.m0000000000000000^2563"CompileC build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/main.o UIvWorker/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/roeyl/Desktop/Ceme    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-generated-files.hmap -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-own-target-headers.hmap -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-all-target-headers.hmap -iquote /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-project-headers.hmap -I/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/include -I/Developer/Extras/CoreAudio/PublicUtility -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/DerivedSources/i386 -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/DerivedSources -F/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator -include /var/folders/rk/00zdb67x71s8t7q6bl_0q9g80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/UIvWorker-Prefix-eeqtvswddunsfbfazjpjxqhaxxmn/UIvWorker-Prefix.pch -MMD -MT dependencies -MF /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/main.d -c /Users/roeyl/Desktop/Ceme/UIvWorker/main.m -o /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/main.o36"87310721-DAFD-4B68-AF1C-9BD76D8FD705-
+
+CCompileXIB /Users/roeyl/Desktop/Ceme/UIvWorker/MyCouponsScreen.xib
+s349535682.381065
+e349535682.666998
+r1
+xCompileXIB
+x/Users/roeyl/Desktop/Ceme/UIvWorker/MyCouponsScreen.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compiling /Users/roeyl/Desktop/Ceme/UIvWorker/MyCouponsScreen.xib2eaa61c27dd5b441^c0cdaac27dd5b441^---0#0#0#-19%DVTDocumentLocation2@71"file://localhost/Users/roeyl/Desktop/Ceme/UIvWorker/MyCouponsScreen.xib0000000000000000^652"CompileXIB UIvWorker/MyCouponsScreen.xib    cd /Users/roeyl/Desktop/Ceme    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/MyCouponsScreen.nib /Users/roeyl/Desktop/Ceme/UIvWorker/MyCouponsScreen.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk36"38AB98EB-5CCD-40E3-8597-D7A98FF26276-
+
+CCompileXIB /Users/roeyl/Desktop/Ceme/UIvWorker/Screen2.xib
+s349535681.185613
+e349535681.604712
+r1
+xCompileXIB
+x/Users/roeyl/Desktop/Ceme/UIvWorker/Screen2.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Compiling /Users/roeyl/Desktop/Ceme/UIvWorker/Screen2.xib49a22fc17dd5b441^c6db9ac17dd5b441^---0#0#0#-19%DVTDocumentLocation2@63"file://localhost/Users/roeyl/Desktop/Ceme/UIvWorker/Screen2.xib0000000000000000^628"CompileXIB UIvWorker/Screen2.xib    cd /Users/roeyl/Desktop/Ceme    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/Screen2.nib /Users/roeyl/Desktop/Ceme/UIvWorker/Screen2.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk36"93063532-C44E-4EAC-B652-185AE7B2DDA9-
+
+CCompileXIB /Users/roeyl/Desktop/Ceme/UIvWorker/Screen5.xib
+s349535681.649821
+e349535682.244510
+r1
+xCompileXIB
+x/Users/roeyl/Desktop/Ceme/UIvWorker/Screen5.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Compiling /Users/roeyl/Desktop/Ceme/UIvWorker/Screen5.xibb876a6c17dd5b441^9bab3ec27dd5b441^-1260"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)-0#0#0#-19%DVTDocumentLocation2@63"file://localhost/Users/roeyl/Desktop/Ceme/UIvWorker/Screen5.xib0000000000000000^628"CompileXIB UIvWorker/Screen5.xib    cd /Users/roeyl/Desktop/Ceme    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/Screen5.nib /Users/roeyl/Desktop/Ceme/UIvWorker/Screen5.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk36"2A22C382-903E-482A-8E1D-856A55894496-
+
+CCompileXIB /Users/roeyl/Desktop/Ceme/UIvWorker/en.lproj/CouponDetailsScreen.xib
+s349535680.516949
+e349535680.816161
+r1
+xCompileXIB
+x/Users/roeyl/Desktop/Ceme/UIvWorker/en.lproj/CouponDetailsScreen.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compiling /Users/roeyl/Desktop/Ceme/UIvWorker/en.lproj/CouponDetailsScreen.xib4c6e84c07dd5b441^4831f8c07dd5b441^-1092"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)-0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/roeyl/Desktop/Ceme/UIvWorker/en.lproj/CouponDetailsScreen.xib0000000000000000^691"CompileXIB UIvWorker/en.lproj/CouponDetailsScreen.xib    cd /Users/roeyl/Desktop/Ceme    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/en.lproj/CouponDetailsScreen.nib /Users/roeyl/Desktop/Ceme/UIvWorker/en.lproj/CouponDetailsScreen.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk36"7E7F0E19-F394-4F56-9790-4732444BDB2B-
+
+CCompileXIB /Users/roeyl/Desktop/Ceme/UIvWorker/en.lproj/RecordingView.xib
+s349535673.333656
+e349535680.513448
+r1
+xCompileXIB
+x/Users/roeyl/Desktop/Ceme/UIvWorker/en.lproj/RecordingView.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compiling /Users/roeyl/Desktop/Ceme/UIvWorker/en.lproj/RecordingView.xibc78355b97dd5b441^8f8a83c07dd5b441^-84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)-0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/roeyl/Desktop/Ceme/UIvWorker/en.lproj/RecordingView.xib0000000000000000^673"CompileXIB UIvWorker/en.lproj/RecordingView.xib    cd /Users/roeyl/Desktop/Ceme    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/en.lproj/RecordingView.nib /Users/roeyl/Desktop/Ceme/UIvWorker/en.lproj/RecordingView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk36"CC309DC7-76C6-434F-901C-74FF04AC5B4B-
+
+CCopyStringsFile /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/en.lproj/InfoPlist.strings UIvWorker/en.lproj/InfoPlist.strings
+s349535673.273691
+e349535673.282940
+r1
+xCopyStringsFile
+x/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/en.lproj/InfoPlist.strings
+xUIvWorker/en.lproj/InfoPlist.strings
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy UIvWorker/en.lproj/InfoPlist.stringsfd3046b97dd5b441^f27a48b97dd5b441^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/roeyl/Desktop/Ceme/UIvWorker/en.lproj/InfoPlist.strings0000000000000000^493"CopyStringsFile build/Debug-iphonesimulator/UIvWorker.app/en.lproj/InfoPlist.strings UIvWorker/en.lproj/InfoPlist.strings    cd /Users/roeyl/Desktop/Ceme    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/en.lproj -- UIvWorker/en.lproj/InfoPlist.strings36"4A18E032-0695-4F40-BA7A-39B710BA9767-
+
+CCpResource CeMeDB.amdb build/Debug-iphonesimulator/UIvWorker.app/CeMeDB.amdb
+s349535684.388523
+e349535684.574524
+r1
+xCpResource
+xCeMeDB.amdb
+xbuild/Debug-iphonesimulator/UIvWorker.app/CeMeDB.amdb
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Copy build/Debug-iphonesimulator/UIvWorker.app/CeMeDB.amdb098a63c47dd5b441^1c2593c47dd5b441^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/CeMeDB.amdb00f4a81edcffdf42^459"CpResource CeMeDB.amdb build/Debug-iphonesimulator/UIvWorker.app/CeMeDB.amdb    cd /Users/roeyl/Desktop/Ceme    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/roeyl/Desktop/Ceme/CeMeDB.amdb /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app36"FA1B13D3-9685-4BD6-8162-54311387FAB5-
+
+CCpResource UIvWorker/Roey_ForTesting_MediaSyncLookup_Local_HalfPrecision_Normalized_20111128_1603_V4.config build/Debug-iphonesimulator/UIvWorker.app/Roey_ForTesting_MediaSyncLookup_Local_HalfPrecision_Normalized_20111128_1603_V4.config
+s349535684.623388
+e349535684.673363
+r1
+xCpResource
+xUIvWorker/Roey_ForTesting_MediaSyncLookup_Local_HalfPrecision_Normalized_20111128_1603_V4.config
+xbuild/Debug-iphonesimulator/UIvWorker.app/Roey_ForTesting_MediaSyncLookup_Local_HalfPrecision_Normalized_20111128_1603_V4.config
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"Copy build/Debug-iphonesimulator/UIvWorker.app/Roey_ForTesting_MediaSyncLookup_Local_HalfPrecision_Normalized_20111128_1603_V4.config2db09fc47dd5b441^7b6bacc47dd5b441^---0#0#0#-19%DVTDocumentLocation2@170"file://localhost/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/Roey_ForTesting_MediaSyncLookup_Local_HalfPrecision_Normalized_20111128_1603_V4.config00f4a81edcffdf42^704"CpResource UIvWorker/Roey_ForTesting_MediaSyncLookup_Local_HalfPrecision_Normalized_20111128_1603_V4.config build/Debug-iphonesimulator/UIvWorker.app/Roey_ForTesting_MediaSyncLookup_Local_HalfPrecision_Normalized_20111128_1603_V4.config    cd /Users/roeyl/Desktop/Ceme    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/roeyl/Desktop/Ceme/UIvWorker/Roey_ForTesting_MediaSyncLookup_Local_HalfPrecision_Normalized_20111128_1603_V4.config /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app36"7E738ED5-4812-42A5-8523-994393749400-
+
+CCpResource UIvWorker/first.png build/Debug-iphonesimulator/UIvWorker.app/first.png
+s349535673.288598
+e349535673.296841
+r1
+xCpResource
+xUIvWorker/first.png
+xbuild/Debug-iphonesimulator/UIvWorker.app/first.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy build/Debug-iphonesimulator/UIvWorker.app/first.png2bf849b97dd5b441^4a0a4cb97dd5b441^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/first.png00f4a81edcffdf42^473"CpResource UIvWorker/first.png build/Debug-iphonesimulator/UIvWorker.app/first.png    cd /Users/roeyl/Desktop/Ceme    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/roeyl/Desktop/Ceme/UIvWorker/first.png /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app36"709DC51F-1982-4F25-8EA5-E5DF6D953296-
+
+CCpResource UIvWorker/first@2x.png build/Debug-iphonesimulator/UIvWorker.app/first@2x.png
+s349535673.299651
+e349535673.306929
+r1
+xCpResource
+xUIvWorker/first@2x.png
+xbuild/Debug-iphonesimulator/UIvWorker.app/first@2x.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Copy build/Debug-iphonesimulator/UIvWorker.app/first@2x.pngfbc94cb97dd5b441^6aa34eb97dd5b441^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/first@2x.png00f4a81edcffdf42^488"CpResource "UIvWorker/first@2x.png" "build/Debug-iphonesimulator/UIvWorker.app/first@2x.png"    cd /Users/roeyl/Desktop/Ceme    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/roeyl/Desktop/Ceme/UIvWorker/first@2x.png" /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app36"E60431EC-33B4-42D2-9FE7-D81BA5782866-
+
+CCpResource UIvWorker/second.png build/Debug-iphonesimulator/UIvWorker.app/second.png
+s349535673.311161
+e349535673.318570
+r1
+xCpResource
+xUIvWorker/second.png
+xbuild/Debug-iphonesimulator/UIvWorker.app/second.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Copy build/Debug-iphonesimulator/UIvWorker.app/second.pngdcba4fb97dd5b441^f29851b97dd5b441^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/second.png00f4a81edcffdf42^476"CpResource UIvWorker/second.png build/Debug-iphonesimulator/UIvWorker.app/second.png    cd /Users/roeyl/Desktop/Ceme    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/roeyl/Desktop/Ceme/UIvWorker/second.png /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app36"6F63F5CF-1BF0-43A8-963B-3AC4C627E3D9-
+
+CCpResource UIvWorker/second@2x.png build/Debug-iphonesimulator/UIvWorker.app/second@2x.png
+s349535673.321132
+e349535673.328183
+r1
+xCpResource
+xUIvWorker/second@2x.png
+xbuild/Debug-iphonesimulator/UIvWorker.app/second@2x.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy build/Debug-iphonesimulator/UIvWorker.app/second@2x.png624852b97dd5b441^280e54b97dd5b441^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/second@2x.png00f4a81edcffdf42^491"CpResource "UIvWorker/second@2x.png" "build/Debug-iphonesimulator/UIvWorker.app/second@2x.png"    cd /Users/roeyl/Desktop/Ceme    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/roeyl/Desktop/Ceme/UIvWorker/second@2x.png" /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app36"CBBB0533-A785-4415-BAC2-AB19CC6D0703-
+
+CCpResource pngs/10-bar.png build/Debug-iphonesimulator/UIvWorker.app/10-bar.png
+s349535683.173677
+e349535683.184183
+r1
+xCpResource
+xpngs/10-bar.png
+xbuild/Debug-iphonesimulator/UIvWorker.app/10-bar.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Copy build/Debug-iphonesimulator/UIvWorker.app/10-bar.png878b2cc37dd5b441^50342fc37dd5b441^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/10-bar.png00f4a81edcffdf42^466"CpResource pngs/10-bar.png build/Debug-iphonesimulator/UIvWorker.app/10-bar.png    cd /Users/roeyl/Desktop/Ceme    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/roeyl/Desktop/Ceme/pngs/10-bar.png /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app36"7E0F2285-440F-4F93-ACB1-555824CEAF0D-
+
+CCpResource pngs/12-bar.png build/Debug-iphonesimulator/UIvWorker.app/12-bar.png
+s349535683.186214
+e349535683.191657
+r1
+xCpResource
+xpngs/12-bar.png
+xbuild/Debug-iphonesimulator/UIvWorker.app/12-bar.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Copy build/Debug-iphonesimulator/UIvWorker.app/12-bar.png09c02fc37dd5b441^f41831c37dd5b441^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/12-bar.png00f4a81edcffdf42^466"CpResource pngs/12-bar.png build/Debug-iphonesimulator/UIvWorker.app/12-bar.png    cd /Users/roeyl/Desktop/Ceme    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/roeyl/Desktop/Ceme/pngs/12-bar.png /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app36"F11B2F8A-7F89-432D-91DB-3F054CB4A653-
+
+CCpResource pngs/14-bar.png build/Debug-iphonesimulator/UIvWorker.app/14-bar.png
+s349535683.256733
+e349535683.308504
+r1
+xCpResource
+xpngs/14-bar.png
+xbuild/Debug-iphonesimulator/UIvWorker.app/14-bar.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Copy build/Debug-iphonesimulator/UIvWorker.app/14-bar.png68cf41c37dd5b441^d1034fc37dd5b441^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/14-bar.png00f4a81edcffdf42^466"CpResource pngs/14-bar.png build/Debug-iphonesimulator/UIvWorker.app/14-bar.png    cd /Users/roeyl/Desktop/Ceme    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/roeyl/Desktop/Ceme/pngs/14-bar.png /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app36"DF4125AF-9F5B-40D0-9A12-98449D9196CC-
+
+CCpResource pngs/16-bar.png build/Debug-iphonesimulator/UIvWorker.app/16-bar.png
+s349535683.358473
+e349535683.506388
+r1
+xCpResource
+xpngs/16-bar.png
+xbuild/Debug-iphonesimulator/UIvWorker.app/16-bar.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Copy build/Debug-iphonesimulator/UIvWorker.app/16-bar.png6adc5bc37dd5b441^f1bb81c37dd5b441^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/16-bar.png00f4a81edcffdf42^466"CpResource pngs/16-bar.png build/Debug-iphonesimulator/UIvWorker.app/16-bar.png    cd /Users/roeyl/Desktop/Ceme    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/roeyl/Desktop/Ceme/pngs/16-bar.png /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app36"38126EAA-8985-4D4B-AE00-0B2286EA4D0F-
+
+CCpResource pngs/2-bar.png build/Debug-iphonesimulator/UIvWorker.app/2-bar.png
+s349535682.823828
+e349535683.092693
+r1
+xCpResource
+xpngs/2-bar.png
+xbuild/Debug-iphonesimulator/UIvWorker.app/2-bar.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy build/Debug-iphonesimulator/UIvWorker.app/2-bar.png09ffd2c27dd5b441^00c617c37dd5b441^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/2-bar.png00f4a81edcffdf42^463"CpResource pngs/2-bar.png build/Debug-iphonesimulator/UIvWorker.app/2-bar.png    cd /Users/roeyl/Desktop/Ceme    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/roeyl/Desktop/Ceme/pngs/2-bar.png /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app36"9BE881C5-B628-4CA6-B3A2-910E11AAB92E-
+
+CCpResource pngs/4-bar.png build/Debug-iphonesimulator/UIvWorker.app/4-bar.png
+s349535683.138456
+e349535683.146720
+r1
+xCpResource
+xpngs/4-bar.png
+xbuild/Debug-iphonesimulator/UIvWorker.app/4-bar.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy build/Debug-iphonesimulator/UIvWorker.app/4-bar.png6e8a23c37dd5b441^039925c37dd5b441^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/4-bar.png00f4a81edcffdf42^463"CpResource pngs/4-bar.png build/Debug-iphonesimulator/UIvWorker.app/4-bar.png    cd /Users/roeyl/Desktop/Ceme    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/roeyl/Desktop/Ceme/pngs/4-bar.png /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app36"41D20111-6046-4EB4-92CD-169FEDDDB0E4-
+
+CCpResource pngs/6-bar.png build/Debug-iphonesimulator/UIvWorker.app/6-bar.png
+s349535683.149077
+e349535683.155413
+r1
+xCpResource
+xpngs/6-bar.png
+xbuild/Debug-iphonesimulator/UIvWorker.app/6-bar.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy build/Debug-iphonesimulator/UIvWorker.app/6-bar.png214026c37dd5b441^ccd127c37dd5b441^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/6-bar.png00f4a81edcffdf42^463"CpResource pngs/6-bar.png build/Debug-iphonesimulator/UIvWorker.app/6-bar.png    cd /Users/roeyl/Desktop/Ceme    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/roeyl/Desktop/Ceme/pngs/6-bar.png /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app36"0903C528-BE54-45BD-B9DD-C932D0F4907B-
+
+CCpResource pngs/8-bar.png build/Debug-iphonesimulator/UIvWorker.app/8-bar.png
+s349535683.161888
+e349535683.169417
+r1
+xCpResource
+xpngs/8-bar.png
+xbuild/Debug-iphonesimulator/UIvWorker.app/8-bar.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy build/Debug-iphonesimulator/UIvWorker.app/8-bar.png9d8529c37dd5b441^be682bc37dd5b441^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/8-bar.png00f4a81edcffdf42^463"CpResource pngs/8-bar.png build/Debug-iphonesimulator/UIvWorker.app/8-bar.png    cd /Users/roeyl/Desktop/Ceme    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/roeyl/Desktop/Ceme/pngs/8-bar.png /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app36"4635ACC7-8E51-4F97-866D-6B6F6B0ABD73-
+
+CCpResource pngs/Cancelbutton.png build/Debug-iphonesimulator/UIvWorker.app/Cancelbutton.png
+s349535683.679244
+e349535683.732173
+r1
+xCpResource
+xpngs/Cancelbutton.png
+xbuild/Debug-iphonesimulator/UIvWorker.app/Cancelbutton.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/Debug-iphonesimulator/UIvWorker.app/Cancelbutton.png8e04aec37dd5b441^ff78bbc37dd5b441^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/Cancelbutton.png00f4a81edcffdf42^484"CpResource pngs/Cancelbutton.png build/Debug-iphonesimulator/UIvWorker.app/Cancelbutton.png    cd /Users/roeyl/Desktop/Ceme    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/roeyl/Desktop/Ceme/pngs/Cancelbutton.png /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app36"F1A43365-C770-40E3-89E0-F00995D2B0BE-
+
+CCpResource pngs/Hagolan.jpg build/Debug-iphonesimulator/UIvWorker.app/Hagolan.jpg
+s349535684.368393
+e349535684.373924
+r1
+xCpResource
+xpngs/Hagolan.jpg
+xbuild/Debug-iphonesimulator/UIvWorker.app/Hagolan.jpg
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Copy build/Debug-iphonesimulator/UIvWorker.app/Hagolan.jpg6f645ec47dd5b441^6ac15fc47dd5b441^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/Hagolan.jpg00f4a81edcffdf42^469"CpResource pngs/Hagolan.jpg build/Debug-iphonesimulator/UIvWorker.app/Hagolan.jpg    cd /Users/roeyl/Desktop/Ceme    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/roeyl/Desktop/Ceme/pngs/Hagolan.jpg /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app36"BFC4F864-E93C-4793-A597-9576FED74FF0-
+
+CCpResource pngs/Icon-2.png build/Debug-iphonesimulator/UIvWorker.app/Icon-2.png
+s349535683.774742
+e349535683.780741
+r1
+xCpResource
+xpngs/Icon-2.png
+xbuild/Debug-iphonesimulator/UIvWorker.app/Icon-2.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Copy build/Debug-iphonesimulator/UIvWorker.app/Icon-2.png236ac6c37dd5b441^a3eac7c37dd5b441^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/Icon-2.png00f4a81edcffdf42^466"CpResource pngs/Icon-2.png build/Debug-iphonesimulator/UIvWorker.app/Icon-2.png    cd /Users/roeyl/Desktop/Ceme    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/roeyl/Desktop/Ceme/pngs/Icon-2.png /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app36"C6794858-3A1D-421E-B0F1-1A4782D7A4FD-
+
+CCpResource pngs/Icon4.png build/Debug-iphonesimulator/UIvWorker.app/Icon4.png
+s349535683.793388
+e349535684.004416
+r1
+xCpResource
+xpngs/Icon4.png
+xbuild/Debug-iphonesimulator/UIvWorker.app/Icon4.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy build/Debug-iphonesimulator/UIvWorker.app/Icon4.pnge02ecbc37dd5b441^c28801c47dd5b441^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/Icon4.png00f4a81edcffdf42^463"CpResource pngs/Icon4.png build/Debug-iphonesimulator/UIvWorker.app/Icon4.png    cd /Users/roeyl/Desktop/Ceme    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/roeyl/Desktop/Ceme/pngs/Icon4.png /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app36"C40D9EB4-F319-4A17-8B41-413CD3C43A0F-
+
+CCpResource pngs/Tab-1.png build/Debug-iphonesimulator/UIvWorker.app/Tab-1.png
+s349535684.198537
+e349535684.235216
+r1
+xCpResource
+xpngs/Tab-1.png
+xbuild/Debug-iphonesimulator/UIvWorker.app/Tab-1.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy build/Debug-iphonesimulator/UIvWorker.app/Tab-1.png0beb32c47dd5b441^8e573cc47dd5b441^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/Tab-1.png00f4a81edcffdf42^463"CpResource pngs/Tab-1.png build/Debug-iphonesimulator/UIvWorker.app/Tab-1.png    cd /Users/roeyl/Desktop/Ceme    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/roeyl/Desktop/Ceme/pngs/Tab-1.png /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app36"C901B151-8082-41E9-B2F8-B46D460C8920-
+
+CCpResource pngs/Zero.jpg build/Debug-iphonesimulator/UIvWorker.app/Zero.jpg
+s349535684.378369
+e349535684.385369
+r1
+xCpResource
+xpngs/Zero.jpg
+xbuild/Debug-iphonesimulator/UIvWorker.app/Zero.jpg
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy build/Debug-iphonesimulator/UIvWorker.app/Zero.jpg13f360c47dd5b441^0cb162c47dd5b441^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/Zero.jpg00f4a81edcffdf42^460"CpResource pngs/Zero.jpg build/Debug-iphonesimulator/UIvWorker.app/Zero.jpg    cd /Users/roeyl/Desktop/Ceme    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/roeyl/Desktop/Ceme/pngs/Zero.jpg /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app36"B844B13D-1B0F-4218-BDEC-B34F6344A246-
+
+CCpResource pngs/backgound.png build/Debug-iphonesimulator/UIvWorker.app/backgound.png
+s349535683.577904
+e349535683.584965
+r1
+xCpResource
+xpngs/backgound.png
+xbuild/Debug-iphonesimulator/UIvWorker.app/backgound.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy build/Debug-iphonesimulator/UIvWorker.app/backgound.pnga11194c37dd5b441^10cc95c37dd5b441^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/backgound.png00f4a81edcffdf42^475"CpResource pngs/backgound.png build/Debug-iphonesimulator/UIvWorker.app/backgound.png    cd /Users/roeyl/Desktop/Ceme    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/roeyl/Desktop/Ceme/pngs/backgound.png /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app36"4A0DF5A4-73DF-4CBA-9498-86F85C2D8A26-
+
+CCpResource pngs/bot-icon-record.png build/Debug-iphonesimulator/UIvWorker.app/bot-icon-record.png
+s349535683.588307
+e349535683.637729
+r1
+xCpResource
+xpngs/bot-icon-record.png
+xbuild/Debug-iphonesimulator/UIvWorker.app/bot-icon-record.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Copy build/Debug-iphonesimulator/UIvWorker.app/bot-icon-record.png3eb196c37dd5b441^7a51a3c37dd5b441^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/bot-icon-record.png00f4a81edcffdf42^493"CpResource pngs/bot-icon-record.png build/Debug-iphonesimulator/UIvWorker.app/bot-icon-record.png    cd /Users/roeyl/Desktop/Ceme    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/roeyl/Desktop/Ceme/pngs/bot-icon-record.png /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app36"58816FC1-031D-45B1-86F8-FDCEA3C3DC99-
+
+CCpResource pngs/colored.png build/Debug-iphonesimulator/UIvWorker.app/colored.png
+s349535683.735540
+e349535683.757264
+r1
+xCpResource
+xpngs/colored.png
+xbuild/Debug-iphonesimulator/UIvWorker.app/colored.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Copy build/Debug-iphonesimulator/UIvWorker.app/colored.png3d62bcc37dd5b441^bce6c1c37dd5b441^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/colored.png00f4a81edcffdf42^469"CpResource pngs/colored.png build/Debug-iphonesimulator/UIvWorker.app/colored.png    cd /Users/roeyl/Desktop/Ceme    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/roeyl/Desktop/Ceme/pngs/colored.png /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app36"DAE18AFA-9599-4AC3-A059-2D22E79ED44B-
+
+CCpResource pngs/dark.png build/Debug-iphonesimulator/UIvWorker.app/dark.png
+s349535683.762272
+e349535683.771708
+r1
+xCpResource
+xpngs/dark.png
+xbuild/Debug-iphonesimulator/UIvWorker.app/dark.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy build/Debug-iphonesimulator/UIvWorker.app/dark.png153ac3c37dd5b441^8ba4c5c37dd5b441^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/dark.png00f4a81edcffdf42^460"CpResource pngs/dark.png build/Debug-iphonesimulator/UIvWorker.app/dark.png    cd /Users/roeyl/Desktop/Ceme    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/roeyl/Desktop/Ceme/pngs/dark.png /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app36"272096F1-B329-4FB5-B2F6-E28B5ADCA171-
+
+CCpResource pngs/icon-3.png build/Debug-iphonesimulator/UIvWorker.app/icon-3.png
+s349535683.783383
+e349535683.790880
+r1
+xCpResource
+xpngs/icon-3.png
+xbuild/Debug-iphonesimulator/UIvWorker.app/icon-3.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Copy build/Debug-iphonesimulator/UIvWorker.app/icon-3.pngcfa1c8c37dd5b441^3980cac37dd5b441^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/icon-3.png00f4a81edcffdf42^466"CpResource pngs/icon-3.png build/Debug-iphonesimulator/UIvWorker.app/icon-3.png    cd /Users/roeyl/Desktop/Ceme    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/roeyl/Desktop/Ceme/pngs/icon-3.png /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app36"36760DB2-FD06-456F-B345-04FA4F2EF200-
+
+CCpResource pngs/knob.png build/Debug-iphonesimulator/UIvWorker.app/knob.png
+s349535684.007028
+e349535684.064125
+r1
+xCpResource
+xpngs/knob.png
+xbuild/Debug-iphonesimulator/UIvWorker.app/knob.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy build/Debug-iphonesimulator/UIvWorker.app/knob.png7ae201c47dd5b441^0a8510c47dd5b441^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/knob.png00f4a81edcffdf42^460"CpResource pngs/knob.png build/Debug-iphonesimulator/UIvWorker.app/knob.png    cd /Users/roeyl/Desktop/Ceme    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/roeyl/Desktop/Ceme/pngs/knob.png /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app36"93D15CE4-F563-43E0-AC69-24723776AAB7-
+
+CCpResource pngs/loading-background.png build/Debug-iphonesimulator/UIvWorker.app/loading-background.png
+s349535684.067173
+e349535684.074776
+r1
+xCpResource
+xpngs/loading-background.png
+xbuild/Debug-iphonesimulator/UIvWorker.app/loading-background.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Copy build/Debug-iphonesimulator/UIvWorker.app/loading-background.png624911c47dd5b441^7f3113c47dd5b441^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/loading-background.png00f4a81edcffdf42^502"CpResource pngs/loading-background.png build/Debug-iphonesimulator/UIvWorker.app/loading-background.png    cd /Users/roeyl/Desktop/Ceme    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/roeyl/Desktop/Ceme/pngs/loading-background.png /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app36"A58025FC-6312-4D3D-AAB6-B6C510CD1CBE-
+
+CCpResource pngs/record.png build/Debug-iphonesimulator/UIvWorker.app/record.png
+s349535684.078390
+e349535684.084611
+r1
+xCpResource
+xpngs/record.png
+xbuild/Debug-iphonesimulator/UIvWorker.app/record.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Copy build/Debug-iphonesimulator/UIvWorker.app/record.pngc82714c47dd5b441^29b315c47dd5b441^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/record.png00f4a81edcffdf42^466"CpResource pngs/record.png build/Debug-iphonesimulator/UIvWorker.app/record.png    cd /Users/roeyl/Desktop/Ceme    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/roeyl/Desktop/Ceme/pngs/record.png /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app36"DDF54EC7-EC25-43A7-B46D-4F6026F9FBC7-
+
+CCpResource pngs/ring.png build/Debug-iphonesimulator/UIvWorker.app/ring.png
+s349535684.087087
+e349535684.159170
+r1
+xCpResource
+xpngs/ring.png
+xbuild/Debug-iphonesimulator/UIvWorker.app/ring.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy build/Debug-iphonesimulator/UIvWorker.app/ring.png0f5f16c47dd5b441^92ca28c47dd5b441^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/ring.png00f4a81edcffdf42^460"CpResource pngs/ring.png build/Debug-iphonesimulator/UIvWorker.app/ring.png    cd /Users/roeyl/Desktop/Ceme    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/roeyl/Desktop/Ceme/pngs/ring.png /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app36"F8064AD0-0A30-43B8-A927-B42338DC1530-
+
+CCpResource pngs/tab-2.png build/Debug-iphonesimulator/UIvWorker.app/tab-2.png
+s349535684.239671
+e349535684.365429
+r1
+xCpResource
+xpngs/tab-2.png
+xbuild/Debug-iphonesimulator/UIvWorker.app/tab-2.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy build/Debug-iphonesimulator/UIvWorker.app/tab-2.png47723dc47dd5b441^58ac5dc47dd5b441^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/tab-2.png00f4a81edcffdf42^463"CpResource pngs/tab-2.png build/Debug-iphonesimulator/UIvWorker.app/tab-2.png    cd /Users/roeyl/Desktop/Ceme    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/roeyl/Desktop/Ceme/pngs/tab-2.png /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app36"F9802CA6-109F-497A-B0C4-8942DF5190BA-
+
+CGenerateDSYMFile /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app.dSYM /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/UIvWorker
+s349541037.532273
+e349541037.681538
+r1
+xGenerateDSYMFile
+x/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app.dSYM
+x/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/UIvWorker
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Generating /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app.dSYM755588ad92d5b441^f48baead92d5b441^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app.dSYM/0000000000000000^466"GenerateDSYMFile build/Debug-iphonesimulator/UIvWorker.app.dSYM build/Debug-iphonesimulator/UIvWorker.app/UIvWorker    cd /Users/roeyl/Desktop/Ceme    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/UIvWorker -o /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app.dSYM36"60D9BFAB-FB24-4E5D-8BCC-F18820476B78-
+
+CLd /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/UIvWorker normal i386
+s349541036.626165
+e349541037.522698
+r1
+xLd
+x/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/UIvWorker
+xnormal
+xi386
+old: warning: directory not found for option '-L/Users/roeyl/Desktop/Ceme/../pHashAudio/libs'
+old: warning: directory not found for option '-L/Users/roeyl/Desktop/Ceme/../zeromq-2.1.11'
+old: warning: directory not found for option '-L/Users/roeyl/Desktop/Ceme/../Binaries/iPhoneOS-V7-4.3/lib'
+old: warning: directory not found for option '-L/Users/roeyl/Desktop/Ceme/../Binaries/iPhoneSimulator-4.3/lib'
+old: warning: directory not found for option '-L/Users/roeyl/Desktop/Ceme/../jeremy-w-objc-zmq-f5e254a/build/Debug'
+old: warning: directory not found for option '-L/Users/roeyl/Desktop/Ceme/../jeremy-w-objc-zmq-f5e254a/build/Debug-iphonesimulator'
+old: warning: directory not found for option '-L/Users/roeyl/Desktop/Ceme/../jeremy-w-objc-zmq-f5e254a/build/Debug-iphoneos'
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Link /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/UIvWorker0070a0ac92d5b441^1de885ad92d5b441^-770"ld: warning: directory not found for option '-L/Users/roeyl/Desktop/Ceme/../pHashAudio/libs'ld: warning: directory not found for option '-L/Users/roeyl/Desktop/Ceme/../zeromq-2.1.11'ld: warning: directory not found for option '-L/Users/roeyl/Desktop/Ceme/../Binaries/iPhoneOS-V7-4.3/lib'ld: warning: directory not found for option '-L/Users/roeyl/Desktop/Ceme/../Binaries/iPhoneSimulator-4.3/lib'ld: warning: directory not found for option '-L/Users/roeyl/Desktop/Ceme/../jeremy-w-objc-zmq-f5e254a/build/Debug'ld: warning: directory not found for option '-L/Users/roeyl/Desktop/Ceme/../jeremy-w-objc-zmq-f5e254a/build/Debug-iphonesimulator'ld: warning: directory not found for option '-L/Users/roeyl/Desktop/Ceme/../jeremy-w-objc-zmq-f5e254a/build/Debug-iphoneos'7(21%IDEActivityLogMessage2@79"Directory not found for option '-L/Users/roeyl/Desktop/Ceme/../pHashAudio/libs'-349541036#0#93#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#32"Apple Mach-O Linker (ld) Warning--2@77"Directory not found for option '-L/Users/roeyl/Desktop/Ceme/../zeromq-2.1.11'-349541036#93#91#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#32"Apple Mach-O Linker (ld) Warning--2@92"Directory not found for option '-L/Users/roeyl/Desktop/Ceme/../Binaries/iPhoneOS-V7-4.3/lib'-349541036#184#106#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#32"Apple Mach-O Linker (ld) Warning--2@96"Directory not found for option '-L/Users/roeyl/Desktop/Ceme/../Binaries/iPhoneSimulator-4.3/lib'-349541036#290#110#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#32"Apple Mach-O Linker (ld) Warning--2@101"Directory not found for option '-L/Users/roeyl/Desktop/Ceme/../jeremy-w-objc-zmq-f5e254a/build/Debug'-349541036#400#115#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#32"Apple Mach-O Linker (ld) Warning--2@117"Directory not found for option '-L/Users/roeyl/Desktop/Ceme/../jeremy-w-objc-zmq-f5e254a/build/Debug-iphonesimulator'-349541036#515#131#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#32"Apple Mach-O Linker (ld) Warning--2@110"Directory not found for option '-L/Users/roeyl/Desktop/Ceme/../jeremy-w-objc-zmq-f5e254a/build/Debug-iphoneos'-349541036#646#124#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#32"Apple Mach-O Linker (ld) Warning--0#0#0#--1821"Ld build/Debug-iphonesimulator/UIvWorker.app/UIvWorker normal i386    cd /Users/roeyl/Desktop/Ceme    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -L/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator -L/Users/roeyl/Desktop/Ceme/../../Desktop/Simi -L/Users/roeyl/Desktop/Ceme/UIvWorker -L/Users/roeyl/Desktop/Ceme/../pHashAudio/libs -L/Users/roeyl/Desktop/Ceme/../zeromq-2.1.11 -L/Users/roeyl/Desktop/Ceme/../Binaries/iPhoneOS-V7-4.3/lib -L/Users/roeyl/Desktop/Ceme/../Binaries/iPhoneSimulator-4.3/lib -L/Users/roeyl/Desktop/Ceme/../jeremy-w-objc-zmq-f5e254a/build/Debug -L/Users/roeyl/Desktop/Ceme/../jeremy-w-objc-zmq-f5e254a/build/Debug-iphonesimulator -L/Users/roeyl/Desktop/Ceme/../jeremy-w-objc-zmq-f5e254a/build/Debug-iphoneos -L/Users/roeyl/Desktop/Ceme/UIvWorker/libs -F/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator -filelist /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/Objects-normal/i386/UIvWorker.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -framework AudioToolbox -framework CFNetwork -framework CoreFoundation -framework SystemConfiguration -framework MobileCoreServices -framework MediaPlayer -framework AVFoundation -framework UIKit -framework Foundation -framework CoreGraphics -lz.1.2.5 -lcrypto -lcurl -lgcrypt -lgpg-error -lmfcbroem_ios -lssh2 -lssl -o /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/UIvWorker36"353570F1-B9AA-4551-B898-AF2480FA20C0-
+
+CProcessInfoPlistFile /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/Info.plist UIvWorker/UIvWorker-Info.plist
+s349535658.440066
+e349535658.450397
+r1
+xProcessInfoPlistFile
+x/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/Info.plist
+xUIvWorker/UIvWorker-Info.plist
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Process UIvWorker/UIvWorker-Info.plist61e170aa7dd5b441^965a73aa7dd5b441^---0#0#0#-19%DVTDocumentLocation2@72"file://localhost/Users/roeyl/Desktop/Ceme/UIvWorker/UIvWorker-Info.plist0000000000000000^561"ProcessInfoPlistFile build/Debug-iphonesimulator/UIvWorker.app/Info.plist UIvWorker/UIvWorker-Info.plist    cd /Users/roeyl/Desktop/Ceme    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility UIvWorker/UIvWorker-Info.plist -genpkginfo /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app/Info.plist36"BA519F35-8F06-4089-BE20-289E5EB1FF5B-
+
+CProcessPCH /Users/roeyl/Library/Developer/Xcode/DerivedData/UIvWorker-aykrjebtodzjsvbmgrknovxolqxr/Index/PrecompiledHeaders/UIvWorker-Prefix-afdttxrfvlzalkextmatnaylovpw_ast/UIvWorker-Prefix.pch.pth UIvWorker/UIvWorker-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/roeyl/Library/Developer/Xcode/DerivedData/UIvWorker-aykrjebtodzjsvbmgrknovxolqxr/Index/PrecompiledHeaders/UIvWorker-Prefix-fdxkmjsbuxdnkvchcrubdwillnqk_ast/UIvWorker-Prefix.pch.pth UIvWorker/UIvWorker-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/rk/00zdb67x71s8t7q6bl_0q9g80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/UIvWorker-Prefix-eeqtvswddunsfbfazjpjxqhaxxmn/UIvWorker-Prefix.pch.pth UIvWorker/UIvWorker-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s349535658.517382
+e349535663.181722
+r1
+xProcessPCH
+x/var/folders/rk/00zdb67x71s8t7q6bl_0q9g80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/UIvWorker-Prefix-eeqtvswddunsfbfazjpjxqhaxxmn/UIvWorker-Prefix.pch.pth
+xUIvWorker/UIvWorker-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile UIvWorker/UIvWorker-Prefix.pch30ba84aa7dd5b441^e3a62eaf7dd5b441^---0#0#0#-19%DVTDocumentLocation2@72"file://localhost/Users/roeyl/Desktop/Ceme/UIvWorker/UIvWorker-Prefix.pch0000000000000000^2610"ProcessPCH /var/folders/rk/00zdb67x71s8t7q6bl_0q9g80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/UIvWorker-Prefix-eeqtvswddunsfbfazjpjxqhaxxmn/UIvWorker-Prefix.pch.pth UIvWorker/UIvWorker-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/roeyl/Desktop/Ceme    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-generated-files.hmap -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-own-target-headers.hmap -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-all-target-headers.hmap -iquote /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-project-headers.hmap -I/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/include -I/Developer/Extras/CoreAudio/PublicUtility -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/DerivedSources/i386 -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/DerivedSources -F/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator -c /Users/roeyl/Desktop/Ceme/UIvWorker/UIvWorker-Prefix.pch -o /var/folders/rk/00zdb67x71s8t7q6bl_0q9g80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/UIvWorker-Prefix-eeqtvswddunsfbfazjpjxqhaxxmn/UIvWorker-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/rk/00zdb67x71s8t7q6bl_0q9g80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/UIvWorker-Prefix-eeqtvswddunsfbfazjpjxqhaxxmn/UIvWorker-Prefix.pch.d36"07B8D094-42DA-4F24-95D9-591B221564F3-
+
+CProcessPCH /var/folders/rk/00zdb67x71s8t7q6bl_0q9g80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/UIvWorker-Prefix-efsdxhukvjktythkblmleduxspjn/UIvWorker-Prefix.pch.pth UIvWorker/UIvWorker-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s349535663.186324
+e349535663.831779
+r1
+xProcessPCH
+x/var/folders/rk/00zdb67x71s8t7q6bl_0q9g80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/UIvWorker-Prefix-efsdxhukvjktythkblmleduxspjn/UIvWorker-Prefix.pch.pth
+xUIvWorker/UIvWorker-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile UIvWorker/UIvWorker-Prefix.pch41d62faf7dd5b441^af09d5af7dd5b441^---0#0#0#-19%DVTDocumentLocation2@72"file://localhost/Users/roeyl/Desktop/Ceme/UIvWorker/UIvWorker-Prefix.pch0000000000000000^2624"ProcessPCH /var/folders/rk/00zdb67x71s8t7q6bl_0q9g80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/UIvWorker-Prefix-efsdxhukvjktythkblmleduxspjn/UIvWorker-Prefix.pch.pth UIvWorker/UIvWorker-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/roeyl/Desktop/Ceme    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-generated-files.hmap -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-own-target-headers.hmap -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-all-target-headers.hmap -iquote /Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/UIvWorker-project-headers.hmap -I/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/include -I/Developer/Extras/CoreAudio/PublicUtility -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/DerivedSources/i386 -I/Users/roeyl/Desktop/Ceme/build/UIvWorker.build/Debug-iphonesimulator/UIvWorker.build/DerivedSources -F/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator -fno-objc-arc -c /Users/roeyl/Desktop/Ceme/UIvWorker/UIvWorker-Prefix.pch -o /var/folders/rk/00zdb67x71s8t7q6bl_0q9g80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/UIvWorker-Prefix-efsdxhukvjktythkblmleduxspjn/UIvWorker-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/rk/00zdb67x71s8t7q6bl_0q9g80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/UIvWorker-Prefix-efsdxhukvjktythkblmleduxspjn/UIvWorker-Prefix.pch.d36"011C2D42-D9D6-4012-B75C-C687B87DBDFF-
+
+CTouch /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app
+s349541037.999819
+e349541038.122115
+r1
+xTouch
+x/Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Touch /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.appdd0700ae92d5b441^795d1fae92d5b441^---0#0#0#--302"Touch build/Debug-iphonesimulator/UIvWorker.app    cd /Users/roeyl/Desktop/Ceme    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/roeyl/Desktop/Ceme/build/Debug-iphonesimulator/UIvWorker.app36"8F6EF470-0226-4B18-A398-C0F3C44C9741-
+
